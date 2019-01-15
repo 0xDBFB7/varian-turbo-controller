@@ -1,0 +1,1598 @@
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 30163 (29K) [text/css]
+Saving to: ‘www.ajvs.com/new/static/css/jquery-ui.min.css’
+
+
+
+2017-10-17 00:56:52 (478 KB/s) - ‘www.ajvs.com/new/static/css/jquery-ui.min.css’ saved [30163/30163]
+
+--2017-10-17 00:56:52--  https://www.ajvs.com/new/static/css/index.css
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 30873 (30K) [text/css]
+Saving to: ‘www.ajvs.com/new/static/css/index.css’
+
+
+
+2017-10-17 00:56:52 (435 KB/s) - ‘www.ajvs.com/new/static/css/index.css’ saved [30873/30873]
+
+Loading robots.txt; please ignore errors.
+--2017-10-17 00:56:52--  https://192.168.1.194/robots.txt
+Connecting to 192.168.1.194:443... failed: Connection timed out.
+Retrying.
+
+--2017-10-17 00:59:04--  (try: 2)  https://192.168.1.194/robots.txt
+Connecting to 192.168.1.194:443... failed: Connection timed out.
+Retrying.
+
+--2017-10-17 01:01:16--  (try: 3)  https://192.168.1.194/robots.txt
+Connecting to 192.168.1.194:443... failed: Connection timed out.
+Retrying.
+
+--2017-10-17 01:03:30--  (try: 4)  https://192.168.1.194/robots.txt
+Connecting to 192.168.1.194:443... failed: Connection timed out.
+Retrying.
+
+--2017-10-17 01:05:44--  (try: 5)  https://192.168.1.194/robots.txt
+Connecting to 192.168.1.194:443... failed: Connection timed out.
+Retrying.
+
+--2017-10-17 01:08:01--  (try: 6)  https://192.168.1.194/robots.txt
+Connecting to 192.168.1.194:443... failed: Connection timed out.
+Retrying.
+
+--2017-10-17 01:10:17--  (try: 7)  https://192.168.1.194/robots.txt
+Connecting to 192.168.1.194:443... failed: Connection timed out.
+Retrying.
+
+--2017-10-17 01:12:33--  (try: 8)  https://192.168.1.194/robots.txt
+Connecting to 192.168.1.194:443... failed: Connection timed out.
+Retrying.
+
+--2017-10-17 01:14:51--  (try: 9)  https://192.168.1.194/robots.txt
+Connecting to 192.168.1.194:443... failed: Connection timed out.
+Retrying.
+
+--2017-10-17 01:17:09--  (try:10)  https://192.168.1.194/robots.txt
+Connecting to 192.168.1.194:443... failed: Connection timed out.
+Retrying.
+
+--2017-10-17 01:19:30--  (try:11)  https://192.168.1.194/robots.txt
+Connecting to 192.168.1.194:443... failed: Connection timed out.
+Retrying.
+
+--2017-10-17 01:21:49--  (try:12)  https://192.168.1.194/robots.txt
+Connecting to 192.168.1.194:443... failed: Connection timed out.
+Retrying.
+
+--2017-10-17 01:24:08--  (try:13)  https://192.168.1.194/robots.txt
+Connecting to 192.168.1.194:443... failed: Connection timed out.
+Retrying.
+
+--2017-10-17 01:26:27--  (try:14)  https://192.168.1.194/robots.txt
+Connecting to 192.168.1.194:443... failed: Connection timed out.
+Retrying.
+
+--2017-10-17 01:28:47--  (try:15)  https://192.168.1.194/robots.txt
+Connecting to 192.168.1.194:443... failed: Connection timed out.
+Retrying.
+
+--2017-10-17 01:31:06--  (try:16)  https://192.168.1.194/robots.txt
+Connecting to 192.168.1.194:443... failed: Connection timed out.
+Retrying.
+
+--2017-10-17 01:33:25--  (try:17)  https://192.168.1.194/robots.txt
+Connecting to 192.168.1.194:443... failed: Connection timed out.
+Retrying.
+
+--2017-10-17 01:35:44--  (try:18)  https://192.168.1.194/robots.txt
+Connecting to 192.168.1.194:443... failed: Connection timed out.
+Retrying.
+
+--2017-10-17 01:38:04--  (try:19)  https://192.168.1.194/robots.txt
+Connecting to 192.168.1.194:443... failed: Connection timed out.
+Retrying.
+
+--2017-10-17 01:40:23--  (try:20)  https://192.168.1.194/robots.txt
+Connecting to 192.168.1.194:443... failed: Connection timed out.
+Giving up.
+
+--2017-10-17 01:42:32--  https://www.ajvs.com/new/static/js/jquery.min.js
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 95957 (94K) [application/javascript]
+Saving to: ‘www.ajvs.com/new/static/js/jquery.min.js’
+
+     0K .......... .......... .......... .......... .......... 53%  109K 0s
+    50K .......... .......... .......... .......... ...       100%  208K=0.7s
+
+2017-10-17 01:42:33 (140 KB/s) - ‘www.ajvs.com/new/static/js/jquery.min.js’ saved [95957/95957]
+
+--2017-10-17 01:42:33--  https://www.ajvs.com/new/static/js/jquery-ui.min.js
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 240427 (235K) [application/javascript]
+Saving to: ‘www.ajvs.com/new/static/js/jquery-ui.min.js’
+
+     0K .......... .......... .......... .......... .......... 21%  131K 1s
+    50K .......... .......... .......... .......... .......... 42%  149K 1s
+   100K .......... .......... .......... .......... .......... 63%  207K 1s
+   150K .......... .......... .......... .......... .......... 85%  131K 0s
+   200K .......... .......... .......... ....                 100%  297K=1.5s
+
+2017-10-17 01:42:35 (161 KB/s) - ‘www.ajvs.com/new/static/js/jquery-ui.min.js’ saved [240427/240427]
+
+--2017-10-17 01:42:35--  https://www.ajvs.com/new/static/js/site_header.js
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 1026 (1.0K) [application/javascript]
+Saving to: ‘www.ajvs.com/new/static/js/site_header.js’
+
+     0K .                                                     100% 49.8M=0s
+
+2017-10-17 01:42:35 (49.8 MB/s) - ‘www.ajvs.com/new/static/js/site_header.js’ saved [1026/1026]
+
+--2017-10-17 01:42:35--  https://www.ajvs.com/new/static/js/bootstrap.min.js
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 37107 (36K) [application/javascript]
+Saving to: ‘www.ajvs.com/new/static/js/bootstrap.min.js’
+
+     0K .......... .......... .......... ......               100%  178K=0.2s
+
+2017-10-17 01:42:36 (178 KB/s) - ‘www.ajvs.com/new/static/js/bootstrap.min.js’ saved [37107/37107]
+
+--2017-10-17 01:42:36--  https://www.ajvs.com/new/constants.js.php
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 948 [text/html]
+Saving to: ‘www.ajvs.com/new/constants.js.php.html’
+
+     0K                                                       100% 42.8M=0s
+
+2017-10-17 01:42:36 (42.8 MB/s) - ‘www.ajvs.com/new/constants.js.php.html’ saved [948/948]
+
+--2017-10-17 01:42:36--  https://www.ajvs.com/new/static/img/ajvs_logo.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 16407 (16K) [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/ajvs_logo.png’
+
+     0K .......... ......                                     100% 29.4K=0.5s
+
+2017-10-17 01:42:37 (29.4 KB/s) - ‘www.ajvs.com/new/static/img/ajvs_logo.png’ saved [16407/16407]
+
+--2017-10-17 01:42:37--  https://www.ajvs.com/new/static/img/phone.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 563 [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/phone.png’
+
+     0K                                                       100% 22.6M=0s
+
+2017-10-17 01:42:38 (22.6 MB/s) - ‘www.ajvs.com/new/static/img/phone.png’ saved [563/563]
+
+--2017-10-17 01:42:38--  https://www.ajvs.com/new/static/img/division.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 278 [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/division.png’
+
+     0K                                                       100% 13.0M=0s
+
+2017-10-17 01:42:39 (13.0 MB/s) - ‘www.ajvs.com/new/static/img/division.png’ saved [278/278]
+
+--2017-10-17 01:42:39--  https://www.ajvs.com/new/static/img/basket.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 470 [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/basket.png’
+
+     0K                                                       100% 22.1M=0s
+
+2017-10-17 01:42:39 (22.1 MB/s) - ‘www.ajvs.com/new/static/img/basket.png’ saved [470/470]
+
+--2017-10-17 01:42:39--  https://www.ajvs.com/new/static/img/community_division.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 242 [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/community_division.png’
+
+     0K                                                       100% 10.6M=0s
+
+2017-10-17 01:42:39 (10.6 MB/s) - ‘www.ajvs.com/new/static/img/community_division.png’ saved [242/242]
+
+--2017-10-17 01:42:39--  https://www.ajvs.com/new/static/css/index_category.css
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 6143 (6.0K) [text/css]
+Saving to: ‘www.ajvs.com/new/static/css/index_category.css’
+
+     0K .....                                                 100% 18.4K=0.3s
+
+2017-10-17 01:42:40 (18.4 KB/s) - ‘www.ajvs.com/new/static/css/index_category.css’ saved [6143/6143]
+
+--2017-10-17 01:42:40--  https://www.ajvs.com/new/static/css/product_info.css
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 6886 (6.7K) [text/css]
+Saving to: ‘www.ajvs.com/new/static/css/product_info.css’
+
+     0K ......                                                100%  408K=0.02s
+
+2017-10-17 01:42:41 (408 KB/s) - ‘www.ajvs.com/new/static/css/product_info.css’ saved [6886/6886]
+
+--2017-10-17 01:42:41--  https://www.ajvs.com/new/static/css/blueimp-gallery.min.css
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 6502 (6.3K) [text/css]
+Saving to: ‘www.ajvs.com/new/static/css/blueimp-gallery.min.css’
+
+     0K ......                                                100%  110K=0.06s
+
+2017-10-17 01:42:41 (110 KB/s) - ‘www.ajvs.com/new/static/css/blueimp-gallery.min.css’ saved [6502/6502]
+
+--2017-10-17 01:42:41--  https://www.ajvs.com/new/static/css/bootstrap-image-gallery.min.css
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 1384 (1.4K) [text/css]
+Saving to: ‘www.ajvs.com/new/static/css/bootstrap-image-gallery.min.css’
+
+     0K .                                                     100% 66.4M=0s
+
+2017-10-17 01:42:42 (66.4 MB/s) - ‘www.ajvs.com/new/static/css/bootstrap-image-gallery.min.css’ saved [1384/1384]
+
+--2017-10-17 01:42:42--  https://www.ajvs.com/images/pfeiffer/Pfeiffer_TL011_Pump_Oil.jpg
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 85437 (83K) [image/jpeg]
+Saving to: ‘www.ajvs.com/images/pfeiffer/Pfeiffer_TL011_Pump_Oil.jpg’
+
+     0K .......... .......... .......... .......... .......... 59% 67.8K 0s
+    50K .......... .......... .......... ...                  100%  115K=1.0s
+
+2017-10-17 01:42:43 (81.1 KB/s) - ‘www.ajvs.com/images/pfeiffer/Pfeiffer_TL011_Pump_Oil.jpg’ saved [85437/85437]
+
+--2017-10-17 01:42:43--  https://www.ajvs.com/new/static/img/navpills_overview.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 331 [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/navpills_overview.png’
+
+     0K                                                       100% 17.6M=0s
+
+2017-10-17 01:42:44 (17.6 MB/s) - ‘www.ajvs.com/new/static/img/navpills_overview.png’ saved [331/331]
+
+--2017-10-17 01:42:44--  https://www.ajvs.com/new/static/img/navpills_specifications.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 442 [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/navpills_specifications.png’
+
+     0K                                                       100% 23.0M=0s
+
+2017-10-17 01:42:44 (23.0 MB/s) - ‘www.ajvs.com/new/static/img/navpills_specifications.png’ saved [442/442]
+
+--2017-10-17 01:42:44--  https://www.ajvs.com/new/static/img/navpills_manual.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 414 [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/navpills_manual.png’
+
+     0K                                                       100% 19.8M=0s
+
+2017-10-17 01:42:44 (19.8 MB/s) - ‘www.ajvs.com/new/static/img/navpills_manual.png’ saved [414/414]
+
+--2017-10-17 01:42:44--  https://www.ajvs.com/new/static/img/pdf.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 872 [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/pdf.png’
+
+     0K                                                       100% 40.5M=0s
+
+2017-10-17 01:42:44 (40.5 MB/s) - ‘www.ajvs.com/new/static/img/pdf.png’ saved [872/872]
+
+--2017-10-17 01:42:44--  https://www.ajvs.com/new/static/js/jquery.blueimp-gallery.min.js
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 31817 (31K) [application/javascript]
+Saving to: ‘www.ajvs.com/new/static/js/jquery.blueimp-gallery.min.js’
+
+     0K .......... .......... .......... .                    100%  173K=0.2s
+
+2017-10-17 01:42:45 (173 KB/s) - ‘www.ajvs.com/new/static/js/jquery.blueimp-gallery.min.js’ saved [31817/31817]
+
+--2017-10-17 01:42:45--  https://www.ajvs.com/new/static/js/bootstrap-image-gallery.min.js
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 1151 (1.1K) [application/javascript]
+Saving to: ‘www.ajvs.com/new/static/js/bootstrap-image-gallery.min.js’
+
+     0K .                                                     100% 52.4M=0s
+
+2017-10-17 01:42:45 (52.4 MB/s) - ‘www.ajvs.com/new/static/js/bootstrap-image-gallery.min.js’ saved [1151/1151]
+
+--2017-10-17 01:42:45--  https://www.ajvs.com/new/static/js/jquery.fittext.min.js
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 380 [application/javascript]
+Saving to: ‘www.ajvs.com/new/static/js/jquery.fittext.min.js’
+
+     0K                                                       100% 17.4M=0s
+
+2017-10-17 01:42:46 (17.4 MB/s) - ‘www.ajvs.com/new/static/js/jquery.fittext.min.js’ saved [380/380]
+
+--2017-10-17 01:42:46--  https://www.ajvs.com/new/static/img/contact_point.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 1594 (1.6K) [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/contact_point.png’
+
+     0K .                                                     100% 62.8M=0s
+
+2017-10-17 01:42:46 (62.8 MB/s) - ‘www.ajvs.com/new/static/img/contact_point.png’ saved [1594/1594]
+
+--2017-10-17 01:42:46--  https://www.ajvs.com/new/static/img/contact_service.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 1476 (1.4K) [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/contact_service.png’
+
+     0K .                                                     100% 64.8M=0s
+
+2017-10-17 01:42:46 (64.8 MB/s) - ‘www.ajvs.com/new/static/img/contact_service.png’ saved [1476/1476]
+
+--2017-10-17 01:42:46--  https://www.ajvs.com/new/static/img/contact_hours.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 1661 (1.6K) [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/contact_hours.png’
+
+     0K .                                                     100% 2.42M=0.001s
+
+2017-10-17 01:42:46 (2.42 MB/s) - ‘www.ajvs.com/new/static/img/contact_hours.png’ saved [1661/1661]
+
+--2017-10-17 01:42:46--  https://www.ajvs.com/new/static/img//help_center_icon_self_service.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 1382 (1.3K) [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/help_center_icon_self_service.png’
+
+     0K .                                                     100% 60.3M=0s
+
+2017-10-17 01:42:47 (60.3 MB/s) - ‘www.ajvs.com/new/static/img/help_center_icon_self_service.png’ saved [1382/1382]
+
+--2017-10-17 01:42:47--  https://www.ajvs.com/new/static/img//help_center_icon_servicing.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 1372 (1.3K) [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/help_center_icon_servicing.png’
+
+     0K .                                                     100% 47.6M=0s
+
+2017-10-17 01:42:48 (47.6 MB/s) - ‘www.ajvs.com/new/static/img/help_center_icon_servicing.png’ saved [1372/1372]
+
+--2017-10-17 01:42:48--  https://www.ajvs.com/new/static/img//help_center_icon_shipping_delivery.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 1583 (1.5K) [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/help_center_icon_shipping_delivery.png’
+
+     0K .                                                     100% 4.29K=0.4s
+
+2017-10-17 01:42:48 (4.29 KB/s) - ‘www.ajvs.com/new/static/img/help_center_icon_shipping_delivery.png’ saved [1583/1583]
+
+--2017-10-17 01:42:48--  https://www.ajvs.com/new/static/img//help_center_icon_payments.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 1548 (1.5K) [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/help_center_icon_payments.png’
+
+     0K .                                                     100% 29.1K=0.05s
+
+2017-10-17 01:42:49 (29.1 KB/s) - ‘www.ajvs.com/new/static/img/help_center_icon_payments.png’ saved [1548/1548]
+
+--2017-10-17 01:42:49--  https://www.ajvs.com/new/static/img//help_center_icon_policies.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 1368 (1.3K) [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/help_center_icon_policies.png’
+
+     0K .                                                     100% 62.0M=0s
+
+2017-10-17 01:42:50 (62.0 MB/s) - ‘www.ajvs.com/new/static/img/help_center_icon_policies.png’ saved [1368/1368]
+
+--2017-10-17 01:42:50--  https://www.ajvs.com/new/static/img/hampton_ridge.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 19260 (19K) [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/hampton_ridge.png’
+
+     0K .......... ........                                   100%  270K=0.07s
+
+2017-10-17 01:42:50 (270 KB/s) - ‘www.ajvs.com/new/static/img/hampton_ridge.png’ saved [19260/19260]
+
+--2017-10-17 01:42:50--  https://www.ajvs.com/new/static/img/az_secured.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 1994 (1.9K) [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/az_secured.png’
+
+     0K .                                                     100% 90.9M=0s
+
+2017-10-17 01:42:50 (90.9 MB/s) - ‘www.ajvs.com/new/static/img/az_secured.png’ saved [1994/1994]
+
+--2017-10-17 01:42:50--  https://verify.authorize.net/anetseal/seal.js
+Connecting to verify.authorize.net (verify.authorize.net)|23.195.210.103|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3622 (3.5K) [application/x-javascript]
+Saving to: ‘verify.authorize.net/anetseal/seal.js’
+
+     0K ...                                                   100% 25.7M=0s
+
+2017-10-17 01:42:50 (25.7 MB/s) - ‘verify.authorize.net/anetseal/seal.js’ saved [3622/3622]
+
+--2017-10-17 01:42:50--  https://www.ajvs.com/new/static/fonts/glyphicons-halflings-regular.eot
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 20127 (20K) [application/vnd.ms-fontobject]
+Saving to: ‘www.ajvs.com/new/static/fonts/glyphicons-halflings-regular.eot’
+
+     0K .......... .........                                  100%  109K=0.2s
+
+2017-10-17 01:42:51 (109 KB/s) - ‘www.ajvs.com/new/static/fonts/glyphicons-halflings-regular.eot’ saved [20127/20127]
+
+--2017-10-17 01:42:51--  https://www.ajvs.com/new/static/fonts/glyphicons-halflings-regular.eot?
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 20127 (20K) [application/vnd.ms-fontobject]
+Saving to: ‘www.ajvs.com/new/static/fonts/glyphicons-halflings-regular.eot?’
+
+     0K .......... .........                                  100%  157K=0.1s
+
+2017-10-17 01:42:52 (157 KB/s) - ‘www.ajvs.com/new/static/fonts/glyphicons-halflings-regular.eot?’ saved [20127/20127]
+
+--2017-10-17 01:42:52--  https://www.ajvs.com/new/static/fonts/glyphicons-halflings-regular.woff2
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 18028 (18K)
+Saving to: ‘www.ajvs.com/new/static/fonts/glyphicons-halflings-regular.woff2.html’
+
+     0K .......... .......                                    100% 84.1K=0.2s
+
+2017-10-17 01:42:52 (84.1 KB/s) - ‘www.ajvs.com/new/static/fonts/glyphicons-halflings-regular.woff2.html’ saved [18028/18028]
+
+--2017-10-17 01:42:52--  https://www.ajvs.com/new/static/fonts/glyphicons-halflings-regular.woff
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 23424 (23K) [application/x-font-woff]
+Saving to: ‘www.ajvs.com/new/static/fonts/glyphicons-halflings-regular.woff’
+
+     0K .......... .......... ..                              100%  120K=0.2s
+
+2017-10-17 01:42:53 (120 KB/s) - ‘www.ajvs.com/new/static/fonts/glyphicons-halflings-regular.woff’ saved [23424/23424]
+
+--2017-10-17 01:42:53--  https://www.ajvs.com/new/static/fonts/glyphicons-halflings-regular.ttf
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 45404 (44K)
+Saving to: ‘www.ajvs.com/new/static/fonts/glyphicons-halflings-regular.ttf.html’
+
+     0K .......... .......... .......... .......... ....      100% 63.7K=0.7s
+
+2017-10-17 01:42:54 (63.7 KB/s) - ‘www.ajvs.com/new/static/fonts/glyphicons-halflings-regular.ttf.html’ saved [45404/45404]
+
+--2017-10-17 01:42:54--  https://www.ajvs.com/new/static/fonts/glyphicons-halflings-regular.svg
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 108738 (106K) [image/svg+xml]
+Saving to: ‘www.ajvs.com/new/static/fonts/glyphicons-halflings-regular.svg’
+
+     0K .......... .......... .......... .......... .......... 47% 73.6K 1s
+    50K .......... .......... .......... .......... .......... 94%  124K 0s
+   100K ......                                                100% 19.3M=1.1s
+
+2017-10-17 01:42:55 (98.0 KB/s) - ‘www.ajvs.com/new/static/fonts/glyphicons-halflings-regular.svg’ saved [108738/108738]
+
+--2017-10-17 01:42:55--  https://www.ajvs.com/new/static/css/images/ui-bg_highlight-soft_100_eeeeee_1x100.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 278 [image/png]
+Saving to: ‘www.ajvs.com/new/static/css/images/ui-bg_highlight-soft_100_eeeeee_1x100.png’
+
+     0K                                                       100% 12.5M=0s
+
+2017-10-17 01:42:56 (12.5 MB/s) - ‘www.ajvs.com/new/static/css/images/ui-bg_highlight-soft_100_eeeeee_1x100.png’ saved [278/278]
+
+--2017-10-17 01:42:56--  https://www.ajvs.com/new/static/css/images/ui-bg_gloss-wave_35_f6a828_500x100.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 5815 (5.7K) [image/png]
+Saving to: ‘www.ajvs.com/new/static/css/images/ui-bg_gloss-wave_35_f6a828_500x100.png’
+
+     0K .....                                                 100%  115K=0.05s
+
+2017-10-17 01:42:56 (115 KB/s) - ‘www.ajvs.com/new/static/css/images/ui-bg_gloss-wave_35_f6a828_500x100.png’ saved [5815/5815]
+
+--2017-10-17 01:42:56--  https://www.ajvs.com/new/static/css/images/ui-bg_glass_100_f6f6f6_1x400.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 262 [image/png]
+Saving to: ‘www.ajvs.com/new/static/css/images/ui-bg_glass_100_f6f6f6_1x400.png’
+
+     0K                                                       100% 12.5M=0s
+
+2017-10-17 01:42:57 (12.5 MB/s) - ‘www.ajvs.com/new/static/css/images/ui-bg_glass_100_f6f6f6_1x400.png’ saved [262/262]
+
+--2017-10-17 01:42:57--  https://www.ajvs.com/new/static/css/images/ui-bg_glass_100_fdf5ce_1x400.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 348 [image/png]
+Saving to: ‘www.ajvs.com/new/static/css/images/ui-bg_glass_100_fdf5ce_1x400.png’
+
+     0K                                                       100% 16.7M=0s
+
+2017-10-17 01:42:57 (16.7 MB/s) - ‘www.ajvs.com/new/static/css/images/ui-bg_glass_100_fdf5ce_1x400.png’ saved [348/348]
+
+--2017-10-17 01:42:57--  https://www.ajvs.com/new/static/css/images/ui-bg_glass_65_ffffff_1x400.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 207 [image/png]
+Saving to: ‘www.ajvs.com/new/static/css/images/ui-bg_glass_65_ffffff_1x400.png’
+
+     0K                                                       100% 10.0M=0s
+
+2017-10-17 01:42:57 (10.0 MB/s) - ‘www.ajvs.com/new/static/css/images/ui-bg_glass_65_ffffff_1x400.png’ saved [207/207]
+
+--2017-10-17 01:42:57--  https://www.ajvs.com/new/static/css/images/ui-bg_highlight-soft_75_ffe45c_1x100.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 328 [image/png]
+Saving to: ‘www.ajvs.com/new/static/css/images/ui-bg_highlight-soft_75_ffe45c_1x100.png’
+
+     0K                                                       100% 16.1M=0s
+
+2017-10-17 01:42:58 (16.1 MB/s) - ‘www.ajvs.com/new/static/css/images/ui-bg_highlight-soft_75_ffe45c_1x100.png’ saved [328/328]
+
+--2017-10-17 01:42:58--  https://www.ajvs.com/new/static/css/images/ui-bg_diagonals-thick_18_b81900_40x40.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 418 [image/png]
+Saving to: ‘www.ajvs.com/new/static/css/images/ui-bg_diagonals-thick_18_b81900_40x40.png’
+
+     0K                                                       100% 20.6M=0s
+
+2017-10-17 01:42:58 (20.6 MB/s) - ‘www.ajvs.com/new/static/css/images/ui-bg_diagonals-thick_18_b81900_40x40.png’ saved [418/418]
+
+--2017-10-17 01:42:58--  https://www.ajvs.com/new/static/css/images/ui-icons_222222_256x240.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 6922 (6.8K) [image/png]
+Saving to: ‘www.ajvs.com/new/static/css/images/ui-icons_222222_256x240.png’
+
+     0K ......                                                100% 17.7K=0.4s
+
+2017-10-17 01:42:59 (17.7 KB/s) - ‘www.ajvs.com/new/static/css/images/ui-icons_222222_256x240.png’ saved [6922/6922]
+
+--2017-10-17 01:42:59--  https://www.ajvs.com/new/static/css/images/ui-icons_ffffff_256x240.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 6299 (6.2K) [image/png]
+Saving to: ‘www.ajvs.com/new/static/css/images/ui-icons_ffffff_256x240.png’
+
+     0K ......                                                100%  349K=0.02s
+
+2017-10-17 01:42:59 (349 KB/s) - ‘www.ajvs.com/new/static/css/images/ui-icons_ffffff_256x240.png’ saved [6299/6299]
+
+--2017-10-17 01:42:59--  https://www.ajvs.com/new/static/css/images/ui-icons_ef8c08_256x240.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 4549 (4.4K) [image/png]
+Saving to: ‘www.ajvs.com/new/static/css/images/ui-icons_ef8c08_256x240.png’
+
+     0K ....                                                  100%  371K=0.01s
+
+2017-10-17 01:43:00 (371 KB/s) - ‘www.ajvs.com/new/static/css/images/ui-icons_ef8c08_256x240.png’ saved [4549/4549]
+
+--2017-10-17 01:43:00--  https://www.ajvs.com/new/static/css/images/ui-icons_228ef1_256x240.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 4549 (4.4K) [image/png]
+Saving to: ‘www.ajvs.com/new/static/css/images/ui-icons_228ef1_256x240.png’
+
+     0K ....                                                  100%  502K=0.009s
+
+2017-10-17 01:43:00 (502 KB/s) - ‘www.ajvs.com/new/static/css/images/ui-icons_228ef1_256x240.png’ saved [4549/4549]
+
+--2017-10-17 01:43:00--  https://www.ajvs.com/new/static/css/images/ui-icons_ffd27a_256x240.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 4549 (4.4K) [image/png]
+Saving to: ‘www.ajvs.com/new/static/css/images/ui-icons_ffd27a_256x240.png’
+
+     0K ....                                                  100%  173M=0s
+
+2017-10-17 01:43:01 (173 MB/s) - ‘www.ajvs.com/new/static/css/images/ui-icons_ffd27a_256x240.png’ saved [4549/4549]
+
+--2017-10-17 01:43:01--  https://www.ajvs.com/new/static/css/images/ui-bg_diagonals-thick_20_666666_40x40.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 312 [image/png]
+Saving to: ‘www.ajvs.com/new/static/css/images/ui-bg_diagonals-thick_20_666666_40x40.png’
+
+     0K                                                       100% 15.2M=0s
+
+2017-10-17 01:43:01 (15.2 MB/s) - ‘www.ajvs.com/new/static/css/images/ui-bg_diagonals-thick_20_666666_40x40.png’ saved [312/312]
+
+--2017-10-17 01:43:01--  https://www.ajvs.com/new/static/css/images/ui-bg_flat_10_000000_40x100.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 205 [image/png]
+Saving to: ‘www.ajvs.com/new/static/css/images/ui-bg_flat_10_000000_40x100.png’
+
+     0K                                                       100% 9.82M=0s
+
+2017-10-17 01:43:01 (9.82 MB/s) - ‘www.ajvs.com/new/static/css/images/ui-bg_flat_10_000000_40x100.png’ saved [205/205]
+
+--2017-10-17 01:43:01--  https://www.ajvs.com/new/static/fonts/robotocondensed-regular_0-webfont.eot
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 22894 (22K) [application/vnd.ms-fontobject]
+Saving to: ‘www.ajvs.com/new/static/fonts/robotocondensed-regular_0-webfont.eot’
+
+     0K .......... .......... ..                              100%  147K=0.2s
+
+2017-10-17 01:43:02 (147 KB/s) - ‘www.ajvs.com/new/static/fonts/robotocondensed-regular_0-webfont.eot’ saved [22894/22894]
+
+--2017-10-17 01:43:02--  https://www.ajvs.com/new/static/fonts/robotocondensed-regular_0-webfont.eot?
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 22894 (22K) [application/vnd.ms-fontobject]
+Saving to: ‘www.ajvs.com/new/static/fonts/robotocondensed-regular_0-webfont.eot?’
+
+     0K .......... .......... ..                              100%  323K=0.07s
+
+2017-10-17 01:43:02 (323 KB/s) - ‘www.ajvs.com/new/static/fonts/robotocondensed-regular_0-webfont.eot?’ saved [22894/22894]
+
+--2017-10-17 01:43:02--  https://www.ajvs.com/new/static/fonts/robotocondensed-regular_0-webfont.woff2
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 20096 (20K)
+Saving to: ‘www.ajvs.com/new/static/fonts/robotocondensed-regular_0-webfont.woff2.html’
+
+     0K .......... .........                                  100%  176K=0.1s
+
+2017-10-17 01:43:02 (176 KB/s) - ‘www.ajvs.com/new/static/fonts/robotocondensed-regular_0-webfont.woff2.html’ saved [20096/20096]
+
+--2017-10-17 01:43:02--  https://www.ajvs.com/new/static/fonts/robotocondensed-regular_0-webfont.woff
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 26432 (26K) [application/x-font-woff]
+Saving to: ‘www.ajvs.com/new/static/fonts/robotocondensed-regular_0-webfont.woff’
+
+     0K .......... .......... .....                           100%  324K=0.08s
+
+2017-10-17 01:43:03 (324 KB/s) - ‘www.ajvs.com/new/static/fonts/robotocondensed-regular_0-webfont.woff’ saved [26432/26432]
+
+--2017-10-17 01:43:03--  https://www.ajvs.com/new/static/fonts/robotocondensed-regular_0-webfont.ttf
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 47852 (47K)
+Saving to: ‘www.ajvs.com/new/static/fonts/robotocondensed-regular_0-webfont.ttf.html’
+
+     0K .......... .......... .......... .......... ......    100%  164K=0.3s
+
+2017-10-17 01:43:03 (164 KB/s) - ‘www.ajvs.com/new/static/fonts/robotocondensed-regular_0-webfont.ttf.html’ saved [47852/47852]
+
+--2017-10-17 01:43:03--  https://www.ajvs.com/new/static/fonts/robotocondensed-regular_0-webfont.svg
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 75463 (74K) [image/svg+xml]
+Saving to: ‘www.ajvs.com/new/static/fonts/robotocondensed-regular_0-webfont.svg’
+
+     0K .......... .......... .......... .......... .......... 67%  110K 0s
+    50K .......... .......... ...                             100%  592K=0.5s
+
+2017-10-17 01:43:04 (149 KB/s) - ‘www.ajvs.com/new/static/fonts/robotocondensed-regular_0-webfont.svg’ saved [75463/75463]
+
+--2017-10-17 01:43:04--  https://www.ajvs.com/new/static/fonts/robotocondensed-bold_0-webfont.eot
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 23000 (22K) [application/vnd.ms-fontobject]
+Saving to: ‘www.ajvs.com/new/static/fonts/robotocondensed-bold_0-webfont.eot’
+
+     0K .......... .......... ..                              100%  184K=0.1s
+
+2017-10-17 01:43:04 (184 KB/s) - ‘www.ajvs.com/new/static/fonts/robotocondensed-bold_0-webfont.eot’ saved [23000/23000]
+
+--2017-10-17 01:43:04--  https://www.ajvs.com/new/static/fonts/robotocondensed-bold_0-webfont.eot?
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 23000 (22K) [application/vnd.ms-fontobject]
+Saving to: ‘www.ajvs.com/new/static/fonts/robotocondensed-bold_0-webfont.eot?’
+
+     0K .......... .......... ..                              100%  147K=0.2s
+
+2017-10-17 01:43:05 (147 KB/s) - ‘www.ajvs.com/new/static/fonts/robotocondensed-bold_0-webfont.eot?’ saved [23000/23000]
+
+--2017-10-17 01:43:05--  https://www.ajvs.com/new/static/fonts/robotocondensed-bold_0-webfont.woff2
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 20140 (20K)
+Saving to: ‘www.ajvs.com/new/static/fonts/robotocondensed-bold_0-webfont.woff2.html’
+
+     0K .......... .........                                  100%  242K=0.08s
+
+2017-10-17 01:43:05 (242 KB/s) - ‘www.ajvs.com/new/static/fonts/robotocondensed-bold_0-webfont.woff2.html’ saved [20140/20140]
+
+--2017-10-17 01:43:05--  https://www.ajvs.com/new/static/fonts/robotocondensed-bold_0-webfont.woff
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 26452 (26K) [application/x-font-woff]
+Saving to: ‘www.ajvs.com/new/static/fonts/robotocondensed-bold_0-webfont.woff’
+
+     0K .......... .......... .....                           100%  102K=0.3s
+
+2017-10-17 01:43:06 (102 KB/s) - ‘www.ajvs.com/new/static/fonts/robotocondensed-bold_0-webfont.woff’ saved [26452/26452]
+
+--2017-10-17 01:43:06--  https://www.ajvs.com/new/static/fonts/robotocondensed-bold_0-webfont.ttf
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 48512 (47K)
+Saving to: ‘www.ajvs.com/new/static/fonts/robotocondensed-bold_0-webfont.ttf.html’
+
+     0K .......... .......... .......... .......... .......   100%  170K=0.3s
+
+2017-10-17 01:43:07 (170 KB/s) - ‘www.ajvs.com/new/static/fonts/robotocondensed-bold_0-webfont.ttf.html’ saved [48512/48512]
+
+--2017-10-17 01:43:07--  https://www.ajvs.com/new/static/fonts/robotocondensed-bold_0-webfont.svg
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 75538 (74K) [image/svg+xml]
+Saving to: ‘www.ajvs.com/new/static/fonts/robotocondensed-bold_0-webfont.svg’
+
+     0K .......... .......... .......... .......... .......... 67%  128K 0s
+    50K .......... .......... ...                             100%  291K=0.5s
+
+2017-10-17 01:43:07 (156 KB/s) - ‘www.ajvs.com/new/static/fonts/robotocondensed-bold_0-webfont.svg’ saved [75538/75538]
+
+--2017-10-17 01:43:07--  https://www.ajvs.com/new/static/fonts/roboto-regular-webfont.eot
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 22548 (22K) [application/vnd.ms-fontobject]
+Saving to: ‘www.ajvs.com/new/static/fonts/roboto-regular-webfont.eot’
+
+     0K .......... .......... ..                              100%  169K=0.1s
+
+2017-10-17 01:43:08 (169 KB/s) - ‘www.ajvs.com/new/static/fonts/roboto-regular-webfont.eot’ saved [22548/22548]
+
+--2017-10-17 01:43:08--  https://www.ajvs.com/new/static/fonts/roboto-regular-webfont.eot?
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 22548 (22K) [application/vnd.ms-fontobject]
+Saving to: ‘www.ajvs.com/new/static/fonts/roboto-regular-webfont.eot?’
+
+     0K .......... .......... ..                              100%  269K=0.08s
+
+2017-10-17 01:43:08 (269 KB/s) - ‘www.ajvs.com/new/static/fonts/roboto-regular-webfont.eot?’ saved [22548/22548]
+
+--2017-10-17 01:43:08--  https://www.ajvs.com/new/static/fonts/roboto-regular-webfont.woff2
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 19844 (19K)
+Saving to: ‘www.ajvs.com/new/static/fonts/roboto-regular-webfont.woff2.html’
+
+     0K .......... .........                                  100%  381K=0.05s
+
+2017-10-17 01:43:09 (381 KB/s) - ‘www.ajvs.com/new/static/fonts/roboto-regular-webfont.woff2.html’ saved [19844/19844]
+
+--2017-10-17 01:43:09--  https://www.ajvs.com/new/static/fonts/roboto-regular-webfont.woff
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 26156 (26K) [application/x-font-woff]
+Saving to: ‘www.ajvs.com/new/static/fonts/roboto-regular-webfont.woff’
+
+     0K .......... .......... .....                           100%  177K=0.1s
+
+2017-10-17 01:43:09 (177 KB/s) - ‘www.ajvs.com/new/static/fonts/roboto-regular-webfont.woff’ saved [26156/26156]
+
+--2017-10-17 01:43:09--  https://www.ajvs.com/new/static/fonts/roboto-regular-webfont.ttf
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 47444 (46K)
+Saving to: ‘www.ajvs.com/new/static/fonts/roboto-regular-webfont.ttf.html’
+
+     0K .......... .......... .......... .......... ......    100% 97.4K=0.5s
+
+2017-10-17 01:43:10 (97.4 KB/s) - ‘www.ajvs.com/new/static/fonts/roboto-regular-webfont.ttf.html’ saved [47444/47444]
+
+--2017-10-17 01:43:10--  https://www.ajvs.com/new/static/fonts/roboto-regular-webfont.svg
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 76311 (75K) [image/svg+xml]
+Saving to: ‘www.ajvs.com/new/static/fonts/roboto-regular-webfont.svg’
+
+     0K .......... .......... .......... .......... .......... 67%  142K 0s
+    50K .......... .......... ....                            100% 39.3M=0.4s
+
+2017-10-17 01:43:10 (212 KB/s) - ‘www.ajvs.com/new/static/fonts/roboto-regular-webfont.svg’ saved [76311/76311]
+
+--2017-10-17 01:43:10--  https://www.ajvs.com/new/static/fonts/roboto-bold-webfont.eot
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 23178 (23K) [application/vnd.ms-fontobject]
+Saving to: ‘www.ajvs.com/new/static/fonts/roboto-bold-webfont.eot’
+
+     0K .......... .......... ..                              100%  191K=0.1s
+
+2017-10-17 01:43:11 (191 KB/s) - ‘www.ajvs.com/new/static/fonts/roboto-bold-webfont.eot’ saved [23178/23178]
+
+--2017-10-17 01:43:11--  https://www.ajvs.com/new/static/fonts/roboto-bold-webfont.eot?
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 23178 (23K) [application/vnd.ms-fontobject]
+Saving to: ‘www.ajvs.com/new/static/fonts/roboto-bold-webfont.eot?’
+
+     0K .......... .......... ..                              100%  202K=0.1s
+
+2017-10-17 01:43:11 (202 KB/s) - ‘www.ajvs.com/new/static/fonts/roboto-bold-webfont.eot?’ saved [23178/23178]
+
+--2017-10-17 01:43:11--  https://www.ajvs.com/new/static/fonts/roboto-bold-webfont.woff2
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 20228 (20K)
+Saving to: ‘www.ajvs.com/new/static/fonts/roboto-bold-webfont.woff2.html’
+
+     0K .......... .........                                  100%  152K=0.1s
+
+2017-10-17 01:43:11 (152 KB/s) - ‘www.ajvs.com/new/static/fonts/roboto-bold-webfont.woff2.html’ saved [20228/20228]
+
+--2017-10-17 01:43:11--  https://www.ajvs.com/new/static/fonts/roboto-bold-webfont.woff
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 26756 (26K) [application/x-font-woff]
+Saving to: ‘www.ajvs.com/new/static/fonts/roboto-bold-webfont.woff’
+
+     0K .......... .......... ......                          100%  429K=0.06s
+
+2017-10-17 01:43:12 (429 KB/s) - ‘www.ajvs.com/new/static/fonts/roboto-bold-webfont.woff’ saved [26756/26756]
+
+--2017-10-17 01:43:12--  https://www.ajvs.com/new/static/fonts/roboto-bold-webfont.ttf
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 48676 (48K)
+Saving to: ‘www.ajvs.com/new/static/fonts/roboto-bold-webfont.ttf.html’
+
+     0K .......... .......... .......... .......... .......   100%  236K=0.2s
+
+2017-10-17 01:43:12 (236 KB/s) - ‘www.ajvs.com/new/static/fonts/roboto-bold-webfont.ttf.html’ saved [48676/48676]
+
+--2017-10-17 01:43:12--  https://www.ajvs.com/new/static/fonts/roboto-bold-webfont.svg
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 76648 (75K) [image/svg+xml]
+Saving to: ‘www.ajvs.com/new/static/fonts/roboto-bold-webfont.svg’
+
+     0K .......... .......... .......... .......... .......... 66%  115K 0s
+    50K .......... .......... ....                            100%  328K=0.5s
+
+2017-10-17 01:43:13 (147 KB/s) - ‘www.ajvs.com/new/static/fonts/roboto-bold-webfont.svg’ saved [76648/76648]
+
+--2017-10-17 01:43:13--  https://www.ajvs.com/new/static/img/product_background.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 16602 (16K) [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/product_background.png’
+
+     0K .......... ......                                     100%  324K=0.05s
+
+2017-10-17 01:43:13 (324 KB/s) - ‘www.ajvs.com/new/static/img/product_background.png’ saved [16602/16602]
+
+--2017-10-17 01:43:13--  https://www.ajvs.com/images/services_bg.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 140106 (137K) [image/png]
+Saving to: ‘www.ajvs.com/images/services_bg.png’
+
+     0K .......... .......... .......... .......... .......... 36%  180K 0s
+    50K .......... .......... .......... .......... .......... 73%  280K 0s
+   100K .......... .......... .......... ......               100%  260K=0.6s
+
+2017-10-17 01:43:14 (229 KB/s) - ‘www.ajvs.com/images/services_bg.png’ saved [140106/140106]
+
+--2017-10-17 01:43:14--  https://www.ajvs.com/images/equipment_rentals_bg.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 25466 (25K) [image/png]
+Saving to: ‘www.ajvs.com/images/equipment_rentals_bg.png’
+
+     0K .......... .......... ....                            100%  195K=0.1s
+
+2017-10-17 01:43:15 (195 KB/s) - ‘www.ajvs.com/images/equipment_rentals_bg.png’ saved [25466/25466]
+
+--2017-10-17 01:43:15--  https://www.ajvs.com/new/static/img/white_arrow.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 298 [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/white_arrow.png’
+
+     0K                                                       100% 13.0M=0s
+
+2017-10-17 01:43:15 (13.0 MB/s) - ‘www.ajvs.com/new/static/img/white_arrow.png’ saved [298/298]
+
+--2017-10-17 01:43:15--  https://www.ajvs.com/new/static/img/aboutus.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 443517 (433K) [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/aboutus.png’
+
+     0K .......... .......... .......... .......... .......... 11%  152K 3s
+    50K .......... .......... .......... .......... .......... 23%  130K 2s
+   100K .......... .......... .......... .......... .......... 34%  118K 2s
+   150K .......... .......... .......... .......... .......... 46%  144K 2s
+   200K .......... .......... .......... .......... .......... 57%  127K 1s
+   250K .......... .......... .......... .......... .......... 69%  101K 1s
+   300K .......... .......... .......... .......... .......... 80%  108K 1s
+   350K .......... .......... .......... .......... .......... 92%  115K 0s
+   400K .......... .......... .......... ...                  100%  140K=3.5s
+
+2017-10-17 01:43:19 (123 KB/s) - ‘www.ajvs.com/new/static/img/aboutus.png’ saved [443517/443517]
+
+--2017-10-17 01:43:19--  https://www.ajvs.com/new/static/img/aboutus_line.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 1396 (1.4K) [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/aboutus_line.png’
+
+     0K .                                                     100% 66.0M=0s
+
+2017-10-17 01:43:19 (66.0 MB/s) - ‘www.ajvs.com/new/static/img/aboutus_line.png’ saved [1396/1396]
+
+--2017-10-17 01:43:19--  https://www.ajvs.com/new/static/img/generate_rma.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 404 [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/generate_rma.png’
+
+     0K                                                       100% 20.8M=0s
+
+2017-10-17 01:43:19 (20.8 MB/s) - ‘www.ajvs.com/new/static/img/generate_rma.png’ saved [404/404]
+
+--2017-10-17 01:43:19--  https://www.ajvs.com/new/static/img/request_estimate.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 429 [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/request_estimate.png’
+
+     0K                                                       100% 19.4M=0s
+
+2017-10-17 01:43:19 (19.4 MB/s) - ‘www.ajvs.com/new/static/img/request_estimate.png’ saved [429/429]
+
+--2017-10-17 01:43:19--  https://www.ajvs.com/new/static/img/basket_button.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 444 [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/basket_button.png’
+
+     0K                                                       100% 20.9M=0s
+
+2017-10-17 01:43:20 (20.9 MB/s) - ‘www.ajvs.com/new/static/img/basket_button.png’ saved [444/444]
+
+--2017-10-17 01:43:20--  https://www.ajvs.com/new/static/img/facebook_btn.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 942 [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/facebook_btn.png’
+
+     0K                                                       100% 47.9M=0s
+
+2017-10-17 01:43:20 (47.9 MB/s) - ‘www.ajvs.com/new/static/img/facebook_btn.png’ saved [942/942]
+
+--2017-10-17 01:43:20--  https://www.ajvs.com/new/static/img/dollar.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 343 [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/dollar.png’
+
+     0K                                                       100% 16.9M=0s
+
+2017-10-17 01:43:20 (16.9 MB/s) - ‘www.ajvs.com/new/static/img/dollar.png’ saved [343/343]
+
+--2017-10-17 01:43:20--  https://www.ajvs.com/new/static/img/print.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 466 [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/print.png’
+
+     0K                                                       100% 21.2M=0s
+
+2017-10-17 01:43:21 (21.2 MB/s) - ‘www.ajvs.com/new/static/img/print.png’ saved [466/466]
+
+--2017-10-17 01:43:21--  https://www.ajvs.com/new/static/img/input_arrow.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 476 [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/input_arrow.png’
+
+     0K                                                       100% 21.7M=0s
+
+2017-10-17 01:43:21 (21.7 MB/s) - ‘www.ajvs.com/new/static/img/input_arrow.png’ saved [476/476]
+
+--2017-10-17 01:43:21--  https://www.ajvs.com/new/static/img/search.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 508 [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/search.png’
+
+     0K                                                       100% 24.1M=0s
+
+2017-10-17 01:43:21 (24.1 MB/s) - ‘www.ajvs.com/new/static/img/search.png’ saved [508/508]
+
+--2017-10-17 01:43:21--  https://192.168.1.194/images/AJVS/Generic_Product_Image_c.jpg
+Connecting to 192.168.1.194:443... failed: Connection timed out.
+Retrying.
+
+--2017-10-17 01:45:31--  (try: 2)  https://192.168.1.194/images/AJVS/Generic_Product_Image_c.jpg
+Connecting to 192.168.1.194:443... failed: Connection timed out.
+Retrying.
+
+--2017-10-17 01:47:43--  (try: 3)  https://192.168.1.194/images/AJVS/Generic_Product_Image_c.jpg
+Connecting to 192.168.1.194:443... failed: Connection timed out.
+Retrying.
+
+--2017-10-17 01:49:58--  (try: 4)  https://192.168.1.194/images/AJVS/Generic_Product_Image_c.jpg
+Connecting to 192.168.1.194:443... failed: Connection timed out.
+Retrying.
+
+--2017-10-17 01:52:12--  (try: 5)  https://192.168.1.194/images/AJVS/Generic_Product_Image_c.jpg
+Connecting to 192.168.1.194:443... failed: Connection timed out.
+Retrying.
+
+--2017-10-17 01:54:28--  (try: 6)  https://192.168.1.194/images/AJVS/Generic_Product_Image_c.jpg
+Connecting to 192.168.1.194:443... failed: Connection timed out.
+Retrying.
+
+--2017-10-17 01:56:44--  (try: 7)  https://192.168.1.194/images/AJVS/Generic_Product_Image_c.jpg
+Connecting to 192.168.1.194:443... failed: Connection timed out.
+Retrying.
+
+--2017-10-17 01:59:00--  (try: 8)  https://192.168.1.194/images/AJVS/Generic_Product_Image_c.jpg
+Connecting to 192.168.1.194:443... failed: Connection timed out.
+Retrying.
+
+--2017-10-17 02:01:18--  (try: 9)  https://192.168.1.194/images/AJVS/Generic_Product_Image_c.jpg
+Connecting to 192.168.1.194:443... failed: Connection timed out.
+Retrying.
+
+--2017-10-17 02:03:37--  (try:10)  https://192.168.1.194/images/AJVS/Generic_Product_Image_c.jpg
+Connecting to 192.168.1.194:443... failed: Connection timed out.
+Retrying.
+
+--2017-10-17 02:05:57--  (try:11)  https://192.168.1.194/images/AJVS/Generic_Product_Image_c.jpg
+Connecting to 192.168.1.194:443... failed: Connection timed out.
+Retrying.
+
+--2017-10-17 02:08:16--  (try:12)  https://192.168.1.194/images/AJVS/Generic_Product_Image_c.jpg
+Connecting to 192.168.1.194:443... failed: Connection timed out.
+Retrying.
+
+--2017-10-17 02:10:35--  (try:13)  https://192.168.1.194/images/AJVS/Generic_Product_Image_c.jpg
+Connecting to 192.168.1.194:443... failed: Connection timed out.
+Retrying.
+
+--2017-10-17 02:12:55--  (try:14)  https://192.168.1.194/images/AJVS/Generic_Product_Image_c.jpg
+Connecting to 192.168.1.194:443... failed: Connection timed out.
+Retrying.
+
+--2017-10-17 02:15:14--  (try:15)  https://192.168.1.194/images/AJVS/Generic_Product_Image_c.jpg
+Connecting to 192.168.1.194:443... failed: Connection timed out.
+Retrying.
+
+--2017-10-17 02:17:33--  (try:16)  https://192.168.1.194/images/AJVS/Generic_Product_Image_c.jpg
+Connecting to 192.168.1.194:443... failed: Connection timed out.
+Retrying.
+
+--2017-10-17 02:19:52--  (try:17)  https://192.168.1.194/images/AJVS/Generic_Product_Image_c.jpg
+Connecting to 192.168.1.194:443... failed: Connection timed out.
+Retrying.
+
+--2017-10-17 02:22:12--  (try:18)  https://192.168.1.194/images/AJVS/Generic_Product_Image_c.jpg
+Connecting to 192.168.1.194:443... failed: Connection timed out.
+Retrying.
+
+--2017-10-17 02:24:31--  (try:19)  https://192.168.1.194/images/AJVS/Generic_Product_Image_c.jpg
+Connecting to 192.168.1.194:443... failed: Connection timed out.
+Retrying.
+
+--2017-10-17 02:26:50--  (try:20)  https://192.168.1.194/images/AJVS/Generic_Product_Image_c.jpg
+Connecting to 192.168.1.194:443... failed: Connection timed out.
+Giving up.
+
+--2017-10-17 02:29:00--  https://www.ajvs.com/new/static/img/carousel_background.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 1121 (1.1K) [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/carousel_background.png’
+
+     0K .                                                     100% 54.1M=0s
+
+2017-10-17 02:29:00 (54.1 MB/s) - ‘www.ajvs.com/new/static/img/carousel_background.png’ saved [1121/1121]
+
+--2017-10-17 02:29:00--  https://www.ajvs.com/new/static/img/faq_background.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 60558 (59K) [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/faq_background.png’
+
+     0K .......... .......... .......... .......... .......... 84%  322K 0s
+    50K .........                                             100% 36.7M=0.2s
+
+2017-10-17 02:29:00 (381 KB/s) - ‘www.ajvs.com/new/static/img/faq_background.png’ saved [60558/60558]
+
+--2017-10-17 02:29:00--  https://www.ajvs.com/new/static/img/list_arrow.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 324 [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/list_arrow.png’
+
+     0K                                                       100% 15.4M=0s
+
+2017-10-17 02:29:01 (15.4 MB/s) - ‘www.ajvs.com/new/static/img/list_arrow.png’ saved [324/324]
+
+--2017-10-17 02:29:01--  https://www.ajvs.com/new/static/img/twitter.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 963 [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/twitter.png’
+
+     0K                                                       100% 44.5M=0s
+
+2017-10-17 02:29:01 (44.5 MB/s) - ‘www.ajvs.com/new/static/img/twitter.png’ saved [963/963]
+
+--2017-10-17 02:29:01--  https://www.ajvs.com/new/static/img/twitter_active.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 669 [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/twitter_active.png’
+
+     0K                                                       100% 32.6M=0s
+
+2017-10-17 02:29:01 (32.6 MB/s) - ‘www.ajvs.com/new/static/img/twitter_active.png’ saved [669/669]
+
+--2017-10-17 02:29:01--  https://www.ajvs.com/new/static/img/facebook.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 642 [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/facebook.png’
+
+     0K                                                       100% 31.0M=0s
+
+2017-10-17 02:29:01 (31.0 MB/s) - ‘www.ajvs.com/new/static/img/facebook.png’ saved [642/642]
+
+--2017-10-17 02:29:01--  https://www.ajvs.com/new/static/img/facebook_active.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 457 [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/facebook_active.png’
+
+     0K                                                       100% 21.7M=0s
+
+2017-10-17 02:29:02 (21.7 MB/s) - ‘www.ajvs.com/new/static/img/facebook_active.png’ saved [457/457]
+
+--2017-10-17 02:29:02--  https://www.ajvs.com/new/static/img/youtube.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 1555 (1.5K) [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/youtube.png’
+
+     0K .                                                     100% 71.2M=0s
+
+2017-10-17 02:29:02 (71.2 MB/s) - ‘www.ajvs.com/new/static/img/youtube.png’ saved [1555/1555]
+
+--2017-10-17 02:29:02--  https://www.ajvs.com/new/static/img/youtube_active.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 1531 (1.5K) [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/youtube_active.png’
+
+     0K .                                                     100% 73.4M=0s
+
+2017-10-17 02:29:02 (73.4 MB/s) - ‘www.ajvs.com/new/static/img/youtube_active.png’ saved [1531/1531]
+
+--2017-10-17 02:29:02--  https://www.ajvs.com/new/static/img/background_image.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 686202 (670K) [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/background_image.png’
+
+     0K .......... .......... .......... .......... ..........  7%  307K 2s
+    50K .......... .......... .......... .......... .......... 14%  902K 1s
+   100K .......... .......... .......... .......... .......... 22% 1.28M 1s
+   150K .......... .......... .......... .......... .......... 29% 1.39M 1s
+   200K .......... .......... .......... .......... .......... 37% 1.14M 1s
+   250K .......... .......... .......... .......... .......... 44% 1.49M 0s
+   300K .......... .......... .......... .......... .......... 52% 1.40M 0s
+   350K .......... .......... .......... .......... .......... 59% 2.04M 0s
+   400K .......... .......... .......... .......... .......... 67% 1.36M 0s
+   450K .......... .......... .......... .......... .......... 74% 2.23M 0s
+   500K .......... .......... .......... .......... .......... 82% 1.69M 0s
+   550K .......... .......... .......... .......... .......... 89% 3.65M 0s
+   600K .......... .......... .......... .......... .......... 96% 1.46M 0s
+   650K .......... ..........                                 100% 1.11M=0.6s
+
+2017-10-17 02:29:03 (1.13 MB/s) - ‘www.ajvs.com/new/static/img/background_image.png’ saved [686202/686202]
+
+--2017-10-17 02:29:03--  https://www.ajvs.com/new/static/img/categories_background.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 5093 (5.0K) [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/categories_background.png’
+
+     0K ....                                                  100% 1.02M=0.005s
+
+2017-10-17 02:29:03 (1.02 MB/s) - ‘www.ajvs.com/new/static/img/categories_background.png’ saved [5093/5093]
+
+--2017-10-17 02:29:03--  https://www.ajvs.com/new/static/img/generic_background.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 152545 (149K) [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/generic_background.png’
+
+     0K .......... .......... .......... .......... .......... 33%  255K 0s
+    50K .......... .......... .......... .......... .......... 67%  670K 0s
+   100K .......... .......... .......... .......... ........  100% 1.13M=0.3s
+
+2017-10-17 02:29:04 (475 KB/s) - ‘www.ajvs.com/new/static/img/generic_background.png’ saved [152545/152545]
+
+--2017-10-17 02:29:04--  https://www.ajvs.com/new/static/img/service_image.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 31205 (30K) [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/service_image.png’
+
+     0K .......... .......... ..........                      100%  379K=0.08s
+
+2017-10-17 02:29:04 (379 KB/s) - ‘www.ajvs.com/new/static/img/service_image.png’ saved [31205/31205]
+
+--2017-10-17 02:29:04--  https://www.ajvs.com/new/static/img/service_background.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 391043 (382K) [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/service_background.png’
+
+     0K .......... .......... .......... .......... .......... 13%  294K 1s
+    50K .......... .......... .......... .......... .......... 26%  751K 1s
+   100K .......... .......... .......... .......... .......... 39%  822K 0s
+   150K .......... .......... .......... .......... .......... 52%  851K 0s
+   200K .......... .......... .......... .......... .......... 65%  941K 0s
+   250K .......... .......... .......... .......... .......... 78% 2.90M 0s
+   300K .......... .......... .......... .......... .......... 91% 1010K 0s
+   350K .......... .......... .......... .                    100% 4.15M=0.5s
+
+2017-10-17 02:29:06 (790 KB/s) - ‘www.ajvs.com/new/static/img/service_background.png’ saved [391043/391043]
+
+--2017-10-17 02:29:06--  https://www.ajvs.com/new/static/img/loading.gif
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 3897 (3.8K) [image/gif]
+Saving to: ‘www.ajvs.com/new/static/img/loading.gif’
+
+     0K ...                                                   100%  142M=0s
+
+2017-10-17 02:29:06 (142 MB/s) - ‘www.ajvs.com/new/static/img/loading.gif’ saved [3897/3897]
+
+--2017-10-17 02:29:06--  https://www.ajvs.com/new/static/img/error.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 2216 (2.2K) [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/error.png’
+
+     0K ..                                                    100%  103M=0s
+
+2017-10-17 02:29:06 (103 MB/s) - ‘www.ajvs.com/new/static/img/error.png’ saved [2216/2216]
+
+--2017-10-17 02:29:06--  https://www.ajvs.com/new/static/img/play-pause.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 606 [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/play-pause.png’
+
+     0K                                                       100% 32.1M=0s
+
+2017-10-17 02:29:06 (32.1 MB/s) - ‘www.ajvs.com/new/static/img/play-pause.png’ saved [606/606]
+
+--2017-10-17 02:29:06--  https://www.ajvs.com/new/static/img/error.svg
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 306 [image/svg+xml]
+Saving to: ‘www.ajvs.com/new/static/img/error.svg’
+
+     0K                                                       100% 13.5M=0s
+
+2017-10-17 02:29:07 (13.5 MB/s) - ‘www.ajvs.com/new/static/img/error.svg’ saved [306/306]
+
+--2017-10-17 02:29:07--  https://www.ajvs.com/new/static/img/play-pause.svg
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 382 [image/svg+xml]
+Saving to: ‘www.ajvs.com/new/static/img/play-pause.svg’
+
+     0K                                                       100% 19.6M=0s
+
+2017-10-17 02:29:07 (19.6 MB/s) - ‘www.ajvs.com/new/static/img/play-pause.svg’ saved [382/382]
+
+--2017-10-17 02:29:07--  https://www.ajvs.com/new/static/img/video-play.png
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 2811 (2.7K) [image/png]
+Saving to: ‘www.ajvs.com/new/static/img/video-play.png’
+
+     0K ..                                                    100%  126M=0s
+
+2017-10-17 02:29:07 (126 MB/s) - ‘www.ajvs.com/new/static/img/video-play.png’ saved [2811/2811]
+
+--2017-10-17 02:29:07--  https://www.ajvs.com/new/static/img/video-play.svg
+Connecting to www.ajvs.com (www.ajvs.com)|173.220.107.3|:443... connected.
+GnuTLS: A TLS warning alert has been received.
+GnuTLS: received alert [112]: The server name sent was not recognized
+HTTP request sent, awaiting response... 200 OK
+Length: 274 [image/svg+xml]
+Saving to: ‘www.ajvs.com/new/static/img/video-play.svg’
+
+     0K                                                       100% 13.3M=0s
+
+2017-10-17 02:29:07 (13.3 MB/s) - ‘www.ajvs.com/new/static/img/video-play.svg’ saved [274/274]
+
+FINISHED --2017-10-17 02:29:07--
+Total wall clock time: 1h 32m 18s
+Downloaded: 118 files, 3.9M in 20s (205 KB/s)
+Converting links in www.ajvs.com/new/static/fonts/robotocondensed-bold_0-webfont.woff2.html... nothing to do.
+Converting links in www.ajvs.com/new/static/fonts/glyphicons-halflings-regular.woff2.html... nothing to do.
+Converting links in www.ajvs.com/new/static/fonts/roboto-regular-webfont.woff2.html... nothing to do.
+Converting links in www.ajvs.com/new/static/fonts/robotocondensed-regular_0-webfont.ttf.html... nothing to do.
+Converting links in www.ajvs.com/new/static/fonts/roboto-bold-webfont.woff2.html... nothing to do.
+Converting links in www.ajvs.com/new/static/fonts/robotocondensed-bold_0-webfont.ttf.html... nothing to do.
+Converting links in www.ajvs.com/new/static/fonts/glyphicons-halflings-regular.ttf.html... nothing to do.
+Converting links in www.ajvs.com/new/static/fonts/robotocondensed-regular_0-webfont.woff2.html... nothing to do.
+www.ajvs.com/new/product_info.php?products_id=7246.html: No such file or directory
+Converting links in www.ajvs.com/new/product_info.php?products_id=7246.html... nothing to do.
+Converting links in www.ajvs.com/new/constants.js.php.html... nothing to do.
+Converting links in www.ajvs.com/new/static/fonts/roboto-regular-webfont.ttf.html... nothing to do.
+Converting links in www.ajvs.com/new/static/fonts/roboto-bold-webfont.ttf.html... nothing to do.
+Converting links in www.ajvs.com/new/static/css/product_info.css... 3-0
+Converting links in www.ajvs.com/new/static/css/bootstrap-image-gallery.min.css... 1-0
+www.ajvs.com/new/static/css/jquery-ui.min.css: No such file or directory
+Converting links in www.ajvs.com/new/static/css/jquery-ui.min.css... nothing to do.
+Converting links in www.ajvs.com/new/static/css/index_category.css... nothing to do.
+www.ajvs.com/new/static/css/bootstrap.min.css: No such file or directory
+Converting links in www.ajvs.com/new/static/css/bootstrap.min.css... nothing to do.
+Converting links in www.ajvs.com/new/static/css/blueimp-gallery.min.css... 8-0
+www.ajvs.com/new/static/css/bootstrap-theme.min.css: No such file or directory
+Converting links in www.ajvs.com/new/static/css/bootstrap-theme.min.css... nothing to do.
+www.ajvs.com/new/static/css/index.css: No such file or directory
+Converting links in www.ajvs.com/new/static/css/index.css... nothing to do.
+Converted links in 20 files in 0.05 seconds.

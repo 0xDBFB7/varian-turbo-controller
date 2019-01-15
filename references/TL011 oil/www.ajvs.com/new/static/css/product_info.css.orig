@@ -1,0 +1,336 @@
+.navigation_header > li > a {
+	background-color: #f2f2f2;
+	color: #0b4889;
+	line-height: 16px;
+	border-radius: 0px;
+}
+.navigation_header > li.active > a, .navigation_header > li.active > a:hover, .navigation_header > li.active > a:focus {
+	background-color: #0b4889;
+	border: none;
+	box-shadow: none;
+	outline-color: none;
+}
+.navigation_header > li > a:hover {
+	border: 1px solid #33D2E1;
+	box-shadow: inset 0 0 20px #33D2E1, 0 0 20px #33D2E1;
+	outline-color: #33D2E1;
+}
+.product_info {
+	padding-bottom: 20px;
+}
+.product_info_main {
+	margin-bottom: 25px;
+	color: #474745;
+	font-family: RobotoCondensed;
+}
+.item_outer {
+	min-height: 380px;
+	font-size: 12px;
+	margin: 10px 0px;
+	padding-bottom: 10px;
+}
+.border_top_bot {
+	border-top: 1px solid #eeeeee;
+	border-bottom: 1px solid #eeeeee;
+}
+.main_image > img, .main_image > a > img {
+	width: 100%;
+	padding: 20px 0px;
+}
+.secondary_image {
+	width: 22%;
+	margin-bottom: 5px;
+	margin-left: 4%;
+}
+.secondary_image:first-child, .secondary_image:nth-child(5) {
+	margin-left: 0%;
+}
+.item_title, .recommended, .item_error {
+	font-size: 24px;
+	line-height: 24px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.item_details {
+	font-size: 16px;
+}
+.item_details.margin {
+	margin-top: 20px;
+}
+.item_additional_info {
+	margin-top: 40px;
+	margin-bottom: 15px;
+	min-height: 30px;
+	font-size: 18px;
+}
+.item_condition {
+	font-family: Roboto;
+	color: #474745;
+	line-height: 30px;
+}
+.item_availability {
+	font-family: Roboto;
+	line-height: 30px;
+	float: right;
+}
+.item_availability.green {
+	font-size: 28px;
+}
+.feature_title {
+	margin-bottom: 5px;
+	color: #474745;
+	font-size: 16px;
+}
+.item_feature, .item_desc {
+	font-family: Arial;
+	font-size: 14px;
+	line-height: 20px;
+	margin-bottom: 20px;
+	color: #848483;
+	list-style-image: url(../img/list_arrow.png);
+}
+.price_buy_panel {
+	height: 80px;
+	background-color: #f8f8f8;
+}
+.item_prices {
+	float: left;
+	padding: 10px;
+	padding-right: 0;
+	line-height: 24px;
+}
+.price_title {
+	color: #afafaf;
+	font-size: 12px;
+	line-height: 24px;
+}
+.old_price {
+	color: #1c1652;
+	text-decoration: line-through;
+}
+.new_price {
+	color: #1c1652;
+	font-size: 24px;
+}
+.item_add {
+	float: right;
+	line-height: 54px;
+	padding: 10px;
+}
+.price_input {
+	line-height: 27px;
+	width: 30px;
+	margin-right: 15px;
+	font-size: 18px;
+}
+.add_to_cart_btn {
+	font-size: 1.5em;
+	line-height: 27px;
+	position: static;
+}
+.product_info_button {
+	margin-top: 40px;
+	line-height: 30px;
+}
+.btn_override {
+	background-position: 10px 50%;
+	padding-left: 30px;
+}
+.navigation_header {
+	font-family: RobotoCondensed;
+	margin-bottom: 20px;
+}
+.navigation_header img {
+	margin-right: 5px;
+}
+.navigation_header span {
+	vertical-align: middle;
+}
+.warranty {
+	float: right;
+	margin-right: 5%;
+}
+.item_desc {
+	margin-top: 30px;
+}
+.item_specification {
+	font-family: Arial;
+	font-size: 14px;
+}
+.file_link {
+	font-family: Arial;
+	color: #474745;
+	font-size: 14px;
+	line-height: 26px;
+	height: 60px;
+	border: 1px solid #dddddd;
+	padding: 17px 17px;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	background: rgba(255,255,255,1);
+	background: -moz-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 47%, rgba(237,237,237,1) 100%);
+	background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(255,255,255,1)), color-stop(47%, rgba(246,246,246,1)), color-stop(100%, rgba(237,237,237,1)));
+	background: -webkit-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 47%, rgba(237,237,237,1) 100%);
+	background: -o-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 47%, rgba(237,237,237,1) 100%);
+	background: -ms-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 47%, rgba(237,237,237,1) 100%);
+	background: linear-gradient(to bottom, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 47%, rgba(237,237,237,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ededed', GradientType=0 );
+}
+.file_link:hover, .file_link:focus {
+	background: #cdcdcd;
+}
+.file_link img {
+	margin-right: 12px;
+}
+.service {
+	font-family: RobotoCondensed;
+	font-size: 14px;
+}
+.service_title, .service_contact_phone {
+	color: #2e97db;
+	font-size: 38px;
+	line-height: 38px;
+}
+.service_title {
+	margin-top: 30px;
+}
+.vertical_line {
+	color: #cdcdcd;
+}
+.repair_title, .service_contact {
+	color: #1c1652;
+	font-size: 18px;
+}
+.repair_title {
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
+.repair_list {
+	font-family: RobotoCondensed;
+	color: #2e97db;
+	line-height: 32px;
+	list-style-type: none;
+	padding: 0;
+}
+.repair_list li:before {
+    content: "\e092";
+    font-family: 'Glyphicons Halflings';
+    font-size: 8px;
+	padding: 5px;
+	vertical-align: top;
+    color: #2e97db;
+}
+.logos {
+	margin-top: 20px;
+	height: 80px;
+	line-height: 40px;
+}
+.service_contact {
+	background-image: url(../img/service_image.png);
+	background-repeat: no-repeat;
+	height: 120px;
+}
+.recommended .carousel {
+	margin-top: 5px;
+}
+.recommended {
+	margin-top: 60px;
+}
+.mobile_panel .panel-default {
+	line-height: 16px;
+	border-radius: 0px;
+}
+.mobile_panel .panel-title span {
+	margin-left: 8px;
+	font-size: 16px;
+}
+.mobile_panel .panel-heading:not(.collapsed) {
+	background-color: #0b4889;
+	border-radius: 0px;
+	color: #FFFFFF;
+}
+.mobile_panel .collapsed .panel-heading {
+	background-color: #f2f2f2;
+	border-radius: 0px;
+	color: #0b4889;
+}
+.button_wrapper {
+	font-size: 14px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.category_panel {
+	margin-top: 30px;
+}
+.item_error {
+	line-height: 40px;
+}
+@media (min-width: 768px) and (max-width: 991px) {
+	.service_title {
+		font-size: 34px;
+	}
+	.item_additional_info {
+		font-size: 14px;
+	}
+}
+@media (min-width: 768px) {
+	.service {
+		background-image: url(../img/service_background.png);
+		background-repeat: no-repeat;
+	}
+}
+@media (max-width: 767px) {
+	.product_data_area {
+		width: auto;
+	}
+	.item_additional_info {
+		margin-top: 10px;
+	}
+	.main_image > img, .main_image > a > img {
+		padding: 0;
+	}
+	.price_buy_panel {
+		height: 140px;
+	}
+	.item_add_mobile {
+		float: left;
+		width: 100%;
+	}
+	.product_info_button > a {
+		width: 100%;
+		display: inline-block;
+	}
+	.navigation_header li {
+		width: 100%;
+	}
+	.service_contact {
+		padding-top: 20px;
+	}
+	.service_contact_phone {
+		font-size: 28px;
+		line-height: 28px;
+	}
+	.repair_list li {
+		line-height: 14px;
+		margin: 10px 0px;
+		text-indent: -1.3em;
+		padding-left: 1.3em;
+	}
+	.repair_title {
+		margin-top: 20px;
+	}
+	.logos {
+		height: auto;
+	}
+	.logos img {
+		margin: 2% 2%;
+		width: 29%;
+	}
+	.add_to_cart_btn {
+		width: 80%;
+	}
+	.item_additional_info {
+		font-size: 9px;
+	}
+}

@@ -1,0 +1,800 @@
+EESchema Schematic File Version 4
+LIBS:controller-cache
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 4
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Sheet
+S 9350 1200 750  600 
+U 5BA83293
+F0 "Sheet5BA83292" 50
+F1 "single_phase.sch" 50
+F2 "PHASE_HI_IN" I L 9350 1300 50 
+F3 "PHASE_L_IN" I L 9350 1400 50 
+F4 "PHASE_OUT" I L 9350 1500 50 
+F5 "CURRENT" I L 9350 1600 50 
+$EndSheet
+$Comp
+L SparkFun-Connectors:CONN_025MM J3
+U 1 1 5BA8537C
+P 3700 2400
+F 0 "J3" H 3656 2704 45  0000 C CNN
+F 1 "48v" H 3656 2620 45  0000 C CNN
+F 2 "SCREWTERMINAL-5MM-2" H 3700 2700 20  0001 C CNN
+F 3 "" H 3700 2400 50  0001 C CNN
+F 4 "" H 3656 2631 60  0000 C CNN "Field4"
+	1    3700 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L SparkFun-Connectors:CONN_025MM J2
+U 1 1 5BA8541D
+P 3700 1950
+F 0 "J2" H 3656 2254 45  0000 C CNN
+F 1 "12v" H 3656 2170 45  0000 C CNN
+F 2 "SCREWTERMINAL-5MM-2" H 3700 2250 20  0001 C CNN
+F 3 "" H 3700 1950 50  0001 C CNN
+F 4 "" H 3656 2181 60  0000 C CNN "Field4"
+	1    3700 1950
+	1    0    0    -1  
+$EndComp
+$Sheet
+S 9350 2000 750  600 
+U 5BA85AC4
+F0 "sheet5BA85ABD" 50
+F1 "single_phase.sch" 50
+F2 "PHASE_HI_IN" I L 9350 2100 50 
+F3 "PHASE_L_IN" I L 9350 2200 50 
+F4 "PHASE_OUT" I L 9350 2300 50 
+F5 "CURRENT" I L 9350 2400 50 
+$EndSheet
+$Sheet
+S 9350 2800 750  600 
+U 5BA85AFE
+F0 "sheet5BA85AF7" 50
+F1 "single_phase.sch" 50
+F2 "PHASE_HI_IN" I L 9350 2900 50 
+F3 "PHASE_L_IN" I L 9350 3000 50 
+F4 "PHASE_OUT" I L 9350 3100 50 
+F5 "CURRENT" I L 9350 3200 50 
+$EndSheet
+$Comp
+L power:+12V #PWR01
+U 1 1 5BA860D6
+P 3800 1850
+F 0 "#PWR01" H 3800 1800 20  0001 C CNN
+F 1 "+12V" V 3800 1958 30  0000 L CNN
+F 2 "" H 3800 1850 50  0001 C CNN
+F 3 "" H 3800 1850 50  0001 C CNN
+	1    3800 1850
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	3800 1300 3950 1300
+Wire Wire Line
+	3800 1400 3950 1400
+Wire Wire Line
+	3800 1500 3950 1500
+Text Label 3950 1500 0    50   ~ 0
+PHASE_1
+Text Label 3950 1400 0    50   ~ 0
+PHASE_2
+Text Label 3950 1300 0    50   ~ 0
+PHASE_3
+$Comp
+L power2:+48V #PWR03
+U 1 1 5BA86AA3
+P 3800 2300
+F 0 "#PWR03" H 3800 2150 50  0001 C CNN
+F 1 "+48V" V 3815 2428 50  0000 L CNN
+F 2 "" H 3800 2300 50  0001 C CNN
+F 3 "" H 3800 2300 50  0001 C CNN
+	1    3800 2300
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR04
+U 1 1 5BA86B6A
+P 3800 2400
+F 0 "#PWR04" H 3800 2400 30  0001 C CNN
+F 1 "GND" H 3800 2330 30  0001 C CNN
+F 2 "" H 3800 2400 50  0001 C CNN
+F 3 "" H 3800 2400 50  0001 C CNN
+	1    3800 2400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR02
+U 1 1 5BA86BAC
+P 3800 1950
+F 0 "#PWR02" H 3800 1950 30  0001 C CNN
+F 1 "GND" H 3800 1880 30  0001 C CNN
+F 2 "" H 3800 1950 50  0001 C CNN
+F 3 "" H 3800 1950 50  0001 C CNN
+	1    3800 1950
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SparkFun-Resistors:RESISTOR0603 R?
+U 1 1 5BA87613
+P 8050 4000
+AR Path="/5B67288E/5BA87613" Ref="R?"  Part="1" 
+AR Path="/5B676F3C/5BA87613" Ref="R?"  Part="1" 
+AR Path="/5B676F99/5BA87613" Ref="R?"  Part="1" 
+AR Path="/5B729BD5/5BA87613" Ref="R?"  Part="1" 
+AR Path="/5B729BDB/5BA87613" Ref="R?"  Part="1" 
+AR Path="/5B729BE1/5BA87613" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5BBD1C02/5BA87613" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5BBD1C09/5BA87613" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5BBD1C10/5BA87613" Ref="R?"  Part="1" 
+AR Path="/5B6DF34A/5BBD1C02/5BA87613" Ref="R?"  Part="1" 
+AR Path="/5B6DF34A/5BBD1C09/5BA87613" Ref="R?"  Part="1" 
+AR Path="/5B6DF34A/5BBD1C10/5BA87613" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5B71FABA/5BA87613" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5B71FABB/5BA87613" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5B71FABC/5BA87613" Ref="R?"  Part="1" 
+AR Path="/5B78C04B/5BA87613" Ref="R?"  Part="1" 
+AR Path="/5B78C052/5BA87613" Ref="R?"  Part="1" 
+AR Path="/5B78C059/5BA87613" Ref="R?"  Part="1" 
+AR Path="/5B81ECCF/5BA87613" Ref="R?"  Part="1" 
+AR Path="/5B81ECD6/5BA87613" Ref="R?"  Part="1" 
+AR Path="/5B81ECDD/5BA87613" Ref="R?"  Part="1" 
+AR Path="/5BA83293/5BA87613" Ref="R?"  Part="1" 
+AR Path="/5BA85AFE/5BA87613" Ref="R?"  Part="1" 
+AR Path="/5BA85AC4/5BA87613" Ref="R?"  Part="1" 
+AR Path="/5BA87613" Ref="R3"  Part="1" 
+F 0 "R3" V 7955 4068 45  0000 L CNN
+F 1 "24k" V 8039 4068 45  0000 L CNN
+F 2 "0603" H 8050 4150 20  0001 C CNN
+F 3 "" H 8050 4000 60  0001 C CNN
+F 4 " " V 8134 4068 60  0000 L CNN "Field4"
+	1    8050 4000
+	0    1    1    0   
+$EndComp
+$Comp
+L SparkFun-Resistors:RESISTOR0603 R?
+U 1 1 5BA8761B
+P 8050 4400
+AR Path="/5B67288E/5BA8761B" Ref="R?"  Part="1" 
+AR Path="/5B676F3C/5BA8761B" Ref="R?"  Part="1" 
+AR Path="/5B676F99/5BA8761B" Ref="R?"  Part="1" 
+AR Path="/5B729BD5/5BA8761B" Ref="R?"  Part="1" 
+AR Path="/5B729BDB/5BA8761B" Ref="R?"  Part="1" 
+AR Path="/5B729BE1/5BA8761B" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5BBD1C02/5BA8761B" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5BBD1C09/5BA8761B" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5BBD1C10/5BA8761B" Ref="R?"  Part="1" 
+AR Path="/5B6DF34A/5BBD1C02/5BA8761B" Ref="R?"  Part="1" 
+AR Path="/5B6DF34A/5BBD1C09/5BA8761B" Ref="R?"  Part="1" 
+AR Path="/5B6DF34A/5BBD1C10/5BA8761B" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5B71FABA/5BA8761B" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5B71FABB/5BA8761B" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5B71FABC/5BA8761B" Ref="R?"  Part="1" 
+AR Path="/5B78C04B/5BA8761B" Ref="R?"  Part="1" 
+AR Path="/5B78C052/5BA8761B" Ref="R?"  Part="1" 
+AR Path="/5B78C059/5BA8761B" Ref="R?"  Part="1" 
+AR Path="/5B81ECCF/5BA8761B" Ref="R?"  Part="1" 
+AR Path="/5B81ECD6/5BA8761B" Ref="R?"  Part="1" 
+AR Path="/5B81ECDD/5BA8761B" Ref="R?"  Part="1" 
+AR Path="/5BA83293/5BA8761B" Ref="R?"  Part="1" 
+AR Path="/5BA85AFE/5BA8761B" Ref="R?"  Part="1" 
+AR Path="/5BA85AC4/5BA8761B" Ref="R?"  Part="1" 
+AR Path="/5BA8761B" Ref="R4"  Part="1" 
+F 0 "R4" V 7955 4468 45  0000 L CNN
+F 1 "1k*" V 8039 4468 45  0000 L CNN
+F 2 "0603" H 8050 4550 20  0001 C CNN
+F 3 "" H 8050 4400 60  0001 C CNN
+F 4 " " V 8134 4468 60  0000 L CNN "Field4"
+	1    8050 4400
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR013
+U 1 1 5BA87622
+P 8050 4600
+AR Path="/5BA87622" Ref="#PWR013"  Part="1" 
+AR Path="/5B65AC1A/5BA87622" Ref="#PWR?"  Part="1" 
+AR Path="/5B65AC1A/5B66E121/5BA87622" Ref="#PWR?"  Part="1" 
+AR Path="/5B67288E/5BA87622" Ref="#PWR?"  Part="1" 
+AR Path="/5B676F3C/5BA87622" Ref="#PWR?"  Part="1" 
+AR Path="/5B676F99/5BA87622" Ref="#PWR?"  Part="1" 
+AR Path="/5B729BD5/5BA87622" Ref="#PWR?"  Part="1" 
+AR Path="/5B729BDB/5BA87622" Ref="#PWR?"  Part="1" 
+AR Path="/5B729BE1/5BA87622" Ref="#PWR?"  Part="1" 
+AR Path="/5BBC7D39/5BBD1C02/5BA87622" Ref="#PWR?"  Part="1" 
+AR Path="/5BBC7D39/5BBD1C09/5BA87622" Ref="#PWR?"  Part="1" 
+AR Path="/5BBC7D39/5BBD1C10/5BA87622" Ref="#PWR?"  Part="1" 
+AR Path="/5B6DF34A/5BBD1C02/5BA87622" Ref="#PWR?"  Part="1" 
+AR Path="/5B6DF34A/5BBD1C09/5BA87622" Ref="#PWR?"  Part="1" 
+AR Path="/5B6DF34A/5BBD1C10/5BA87622" Ref="#PWR?"  Part="1" 
+AR Path="/5BBC7D39/5B71FABA/5BA87622" Ref="#PWR?"  Part="1" 
+AR Path="/5BBC7D39/5B71FABB/5BA87622" Ref="#PWR?"  Part="1" 
+AR Path="/5BBC7D39/5B71FABC/5BA87622" Ref="#PWR?"  Part="1" 
+AR Path="/5B78C04B/5BA87622" Ref="#PWR?"  Part="1" 
+AR Path="/5B78C052/5BA87622" Ref="#PWR?"  Part="1" 
+AR Path="/5B78C059/5BA87622" Ref="#PWR?"  Part="1" 
+AR Path="/5B81ECCF/5BA87622" Ref="#PWR?"  Part="1" 
+AR Path="/5B81ECD6/5BA87622" Ref="#PWR?"  Part="1" 
+AR Path="/5B81ECDD/5BA87622" Ref="#PWR?"  Part="1" 
+AR Path="/5BA83293/5BA87622" Ref="#PWR?"  Part="1" 
+AR Path="/5BA85AFE/5BA87622" Ref="#PWR?"  Part="1" 
+AR Path="/5BA85AC4/5BA87622" Ref="#PWR?"  Part="1" 
+F 0 "#PWR013" H 8050 4600 30  0001 C CNN
+F 1 "GND" H 8050 4530 30  0001 C CNN
+F 2 "" H 8050 4600 50  0001 C CNN
+F 3 "" H 8050 4600 50  0001 C CNN
+	1    8050 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8050 4200 8200 4200
+Connection ~ 8050 4200
+Text Label 9350 1300 2    50   ~ 0
+PHASE_HIGH_IN_1
+Text Label 9350 2100 2    50   ~ 0
+PHASE_HIGH_IN_2
+Text Label 9350 2900 2    50   ~ 0
+PHASE_HIGH_IN_3
+Text Label 9350 2200 2    50   ~ 0
+PHASE_LOW_IN_2
+Text Label 9350 3000 2    50   ~ 0
+PHASE_LOW_IN_3
+Text Label 9350 3100 2    50   ~ 0
+PHASE_3
+Text Label 9350 2300 2    50   ~ 0
+PHASE_2
+Text Label 9350 1500 2    50   ~ 0
+PHASE_1
+$Comp
+L Device:CP C1
+U 1 1 5BA8E788
+P 5750 1100
+F 0 "C1" H 5868 1146 50  0000 L CNN
+F 1 "CP" H 5868 1055 50  0000 L CNN
+F 2 "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm" H 5788 950 50  0001 C CNN
+F 3 "~" H 5750 1100 50  0001 C CNN
+	1    5750 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L power2:+48V #PWR07
+U 1 1 5BA8E945
+P 5750 950
+F 0 "#PWR07" H 5750 800 50  0001 C CNN
+F 1 "+48V" H 5765 1123 50  0000 C CNN
+F 2 "" H 5750 950 50  0001 C CNN
+F 3 "" H 5750 950 50  0001 C CNN
+	1    5750 950 
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR08
+U 1 1 5BA8E9B3
+P 5750 1250
+F 0 "#PWR08" H 5750 1250 30  0001 C CNN
+F 1 "GND" H 5750 1180 30  0001 C CNN
+F 2 "" H 5750 1250 50  0001 C CNN
+F 3 "" H 5750 1250 50  0001 C CNN
+	1    5750 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:CP C2
+U 1 1 5BA8EA86
+P 6150 1100
+F 0 "C2" H 6268 1146 50  0000 L CNN
+F 1 "CP" H 6268 1055 50  0000 L CNN
+F 2 "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm" H 6188 950 50  0001 C CNN
+F 3 "~" H 6150 1100 50  0001 C CNN
+	1    6150 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L power2:+48V #PWR09
+U 1 1 5BA8EA8D
+P 6150 950
+F 0 "#PWR09" H 6150 800 50  0001 C CNN
+F 1 "+48V" H 6165 1123 50  0000 C CNN
+F 2 "" H 6150 950 50  0001 C CNN
+F 3 "" H 6150 950 50  0001 C CNN
+	1    6150 950 
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR010
+U 1 1 5BA8EA93
+P 6150 1250
+F 0 "#PWR010" H 6150 1250 30  0001 C CNN
+F 1 "GND" H 6150 1180 30  0001 C CNN
+F 2 "" H 6150 1250 50  0001 C CNN
+F 3 "" H 6150 1250 50  0001 C CNN
+	1    6150 1250
+	1    0    0    -1  
+$EndComp
+Text Label 9350 1400 2    50   ~ 0
+PHASE_LOW_IN_1
+Text Label 9350 1600 2    50   ~ 0
+CURRENT_1
+Text Label 9350 2400 2    50   ~ 0
+CURRENT_2
+Text Label 9350 3200 2    50   ~ 0
+CURRENT_3
+$Comp
+L SparkFun-Resistors:RESISTOR0603 R?
+U 1 1 5C0C50E2
+P 9000 4000
+AR Path="/5B67288E/5C0C50E2" Ref="R?"  Part="1" 
+AR Path="/5B676F3C/5C0C50E2" Ref="R?"  Part="1" 
+AR Path="/5B676F99/5C0C50E2" Ref="R?"  Part="1" 
+AR Path="/5B729BD5/5C0C50E2" Ref="R?"  Part="1" 
+AR Path="/5B729BDB/5C0C50E2" Ref="R?"  Part="1" 
+AR Path="/5B729BE1/5C0C50E2" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5BBD1C02/5C0C50E2" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5BBD1C09/5C0C50E2" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5BBD1C10/5C0C50E2" Ref="R?"  Part="1" 
+AR Path="/5B6DF34A/5BBD1C02/5C0C50E2" Ref="R?"  Part="1" 
+AR Path="/5B6DF34A/5BBD1C09/5C0C50E2" Ref="R?"  Part="1" 
+AR Path="/5B6DF34A/5BBD1C10/5C0C50E2" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5B71FABA/5C0C50E2" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5B71FABB/5C0C50E2" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5B71FABC/5C0C50E2" Ref="R?"  Part="1" 
+AR Path="/5B78C04B/5C0C50E2" Ref="R?"  Part="1" 
+AR Path="/5B78C052/5C0C50E2" Ref="R?"  Part="1" 
+AR Path="/5B78C059/5C0C50E2" Ref="R?"  Part="1" 
+AR Path="/5B81ECCF/5C0C50E2" Ref="R?"  Part="1" 
+AR Path="/5B81ECD6/5C0C50E2" Ref="R?"  Part="1" 
+AR Path="/5B81ECDD/5C0C50E2" Ref="R?"  Part="1" 
+AR Path="/5BA83293/5C0C50E2" Ref="R?"  Part="1" 
+AR Path="/5BA85AFE/5C0C50E2" Ref="R?"  Part="1" 
+AR Path="/5BA85AC4/5C0C50E2" Ref="R?"  Part="1" 
+AR Path="/5C0C50E2" Ref="R5"  Part="1" 
+F 0 "R5" V 8905 4068 45  0000 L CNN
+F 1 "24k" V 8989 4068 45  0000 L CNN
+F 2 "0603" H 9000 4150 20  0001 C CNN
+F 3 "" H 9000 4000 60  0001 C CNN
+F 4 " " V 9084 4068 60  0000 L CNN "Field4"
+	1    9000 4000
+	0    1    1    0   
+$EndComp
+$Comp
+L SparkFun-Resistors:RESISTOR0603 R?
+U 1 1 5C0C50EA
+P 9000 4400
+AR Path="/5B67288E/5C0C50EA" Ref="R?"  Part="1" 
+AR Path="/5B676F3C/5C0C50EA" Ref="R?"  Part="1" 
+AR Path="/5B676F99/5C0C50EA" Ref="R?"  Part="1" 
+AR Path="/5B729BD5/5C0C50EA" Ref="R?"  Part="1" 
+AR Path="/5B729BDB/5C0C50EA" Ref="R?"  Part="1" 
+AR Path="/5B729BE1/5C0C50EA" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5BBD1C02/5C0C50EA" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5BBD1C09/5C0C50EA" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5BBD1C10/5C0C50EA" Ref="R?"  Part="1" 
+AR Path="/5B6DF34A/5BBD1C02/5C0C50EA" Ref="R?"  Part="1" 
+AR Path="/5B6DF34A/5BBD1C09/5C0C50EA" Ref="R?"  Part="1" 
+AR Path="/5B6DF34A/5BBD1C10/5C0C50EA" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5B71FABA/5C0C50EA" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5B71FABB/5C0C50EA" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5B71FABC/5C0C50EA" Ref="R?"  Part="1" 
+AR Path="/5B78C04B/5C0C50EA" Ref="R?"  Part="1" 
+AR Path="/5B78C052/5C0C50EA" Ref="R?"  Part="1" 
+AR Path="/5B78C059/5C0C50EA" Ref="R?"  Part="1" 
+AR Path="/5B81ECCF/5C0C50EA" Ref="R?"  Part="1" 
+AR Path="/5B81ECD6/5C0C50EA" Ref="R?"  Part="1" 
+AR Path="/5B81ECDD/5C0C50EA" Ref="R?"  Part="1" 
+AR Path="/5BA83293/5C0C50EA" Ref="R?"  Part="1" 
+AR Path="/5BA85AFE/5C0C50EA" Ref="R?"  Part="1" 
+AR Path="/5BA85AC4/5C0C50EA" Ref="R?"  Part="1" 
+AR Path="/5C0C50EA" Ref="R6"  Part="1" 
+F 0 "R6" V 8905 4468 45  0000 L CNN
+F 1 "1k*" V 8989 4468 45  0000 L CNN
+F 2 "0603" H 9000 4550 20  0001 C CNN
+F 3 "" H 9000 4400 60  0001 C CNN
+F 4 " " V 9084 4468 60  0000 L CNN "Field4"
+	1    9000 4400
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR015
+U 1 1 5C0C50F1
+P 9000 4600
+AR Path="/5C0C50F1" Ref="#PWR015"  Part="1" 
+AR Path="/5B65AC1A/5C0C50F1" Ref="#PWR?"  Part="1" 
+AR Path="/5B65AC1A/5B66E121/5C0C50F1" Ref="#PWR?"  Part="1" 
+AR Path="/5B67288E/5C0C50F1" Ref="#PWR?"  Part="1" 
+AR Path="/5B676F3C/5C0C50F1" Ref="#PWR?"  Part="1" 
+AR Path="/5B676F99/5C0C50F1" Ref="#PWR?"  Part="1" 
+AR Path="/5B729BD5/5C0C50F1" Ref="#PWR?"  Part="1" 
+AR Path="/5B729BDB/5C0C50F1" Ref="#PWR?"  Part="1" 
+AR Path="/5B729BE1/5C0C50F1" Ref="#PWR?"  Part="1" 
+AR Path="/5BBC7D39/5BBD1C02/5C0C50F1" Ref="#PWR?"  Part="1" 
+AR Path="/5BBC7D39/5BBD1C09/5C0C50F1" Ref="#PWR?"  Part="1" 
+AR Path="/5BBC7D39/5BBD1C10/5C0C50F1" Ref="#PWR?"  Part="1" 
+AR Path="/5B6DF34A/5BBD1C02/5C0C50F1" Ref="#PWR?"  Part="1" 
+AR Path="/5B6DF34A/5BBD1C09/5C0C50F1" Ref="#PWR?"  Part="1" 
+AR Path="/5B6DF34A/5BBD1C10/5C0C50F1" Ref="#PWR?"  Part="1" 
+AR Path="/5BBC7D39/5B71FABA/5C0C50F1" Ref="#PWR?"  Part="1" 
+AR Path="/5BBC7D39/5B71FABB/5C0C50F1" Ref="#PWR?"  Part="1" 
+AR Path="/5BBC7D39/5B71FABC/5C0C50F1" Ref="#PWR?"  Part="1" 
+AR Path="/5B78C04B/5C0C50F1" Ref="#PWR?"  Part="1" 
+AR Path="/5B78C052/5C0C50F1" Ref="#PWR?"  Part="1" 
+AR Path="/5B78C059/5C0C50F1" Ref="#PWR?"  Part="1" 
+AR Path="/5B81ECCF/5C0C50F1" Ref="#PWR?"  Part="1" 
+AR Path="/5B81ECD6/5C0C50F1" Ref="#PWR?"  Part="1" 
+AR Path="/5B81ECDD/5C0C50F1" Ref="#PWR?"  Part="1" 
+AR Path="/5BA83293/5C0C50F1" Ref="#PWR?"  Part="1" 
+AR Path="/5BA85AFE/5C0C50F1" Ref="#PWR?"  Part="1" 
+AR Path="/5BA85AC4/5C0C50F1" Ref="#PWR?"  Part="1" 
+F 0 "#PWR015" H 9000 4600 30  0001 C CNN
+F 1 "GND" H 9000 4530 30  0001 C CNN
+F 2 "" H 9000 4600 50  0001 C CNN
+F 3 "" H 9000 4600 50  0001 C CNN
+	1    9000 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9000 4200 9150 4200
+Connection ~ 9000 4200
+Text Label 8050 3800 0    50   ~ 0
+PHASE_2
+Text Label 9000 3800 0    50   ~ 0
+PHASE_3
+Text Label 8200 4200 0    50   ~ 0
+PHASE_2_SENSE
+Text Label 9150 4200 0    50   ~ 0
+PHASE_3_SENSE
+$Comp
+L MCU_Module:Arduino_Nano_v3.x A1
+U 1 1 5C0C8D7E
+P 5300 3500
+F 0 "A1" H 5300 2414 50  0000 C CNN
+F 1 "Arduino_Nano_v3.x" H 5300 2323 50  0000 C CNN
+F 2 "Module:Arduino_Nano" H 5450 2550 50  0001 L CNN
+F 3 "http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf" H 5300 2500 50  0001 C CNN
+	1    5300 3500
+	1    0    0    -1  
+$EndComp
+Text Label 4800 3200 2    50   ~ 0
+PHASE_HIGH_IN_1
+Text Label 4800 3300 2    50   ~ 0
+PHASE_HIGH_IN_2
+Text Label 4800 3400 2    50   ~ 0
+PHASE_HIGH_IN_3
+Text Label 4800 3800 2    50   ~ 0
+PHASE_LOW_IN_1
+Text Label 4800 3900 2    50   ~ 0
+PHASE_LOW_IN_2
+Text Label 4800 4000 2    50   ~ 0
+PHASE_LOW_IN_3
+$Comp
+L power:+12V #PWR05
+U 1 1 5C0CA9A2
+P 5200 2500
+F 0 "#PWR05" H 5200 2450 20  0001 C CNN
+F 1 "+12V" V 5200 2608 30  0000 L CNN
+F 2 "" H 5200 2500 50  0001 C CNN
+F 3 "" H 5200 2500 50  0001 C CNN
+	1    5200 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR06
+U 1 1 5C0CAC3B
+P 5400 4500
+AR Path="/5C0CAC3B" Ref="#PWR06"  Part="1" 
+AR Path="/5B65AC1A/5C0CAC3B" Ref="#PWR?"  Part="1" 
+AR Path="/5B65AC1A/5B66E121/5C0CAC3B" Ref="#PWR?"  Part="1" 
+AR Path="/5B67288E/5C0CAC3B" Ref="#PWR?"  Part="1" 
+AR Path="/5B676F3C/5C0CAC3B" Ref="#PWR?"  Part="1" 
+AR Path="/5B676F99/5C0CAC3B" Ref="#PWR?"  Part="1" 
+AR Path="/5B729BD5/5C0CAC3B" Ref="#PWR?"  Part="1" 
+AR Path="/5B729BDB/5C0CAC3B" Ref="#PWR?"  Part="1" 
+AR Path="/5B729BE1/5C0CAC3B" Ref="#PWR?"  Part="1" 
+AR Path="/5BBC7D39/5BBD1C02/5C0CAC3B" Ref="#PWR?"  Part="1" 
+AR Path="/5BBC7D39/5BBD1C09/5C0CAC3B" Ref="#PWR?"  Part="1" 
+AR Path="/5BBC7D39/5BBD1C10/5C0CAC3B" Ref="#PWR?"  Part="1" 
+AR Path="/5B6DF34A/5BBD1C02/5C0CAC3B" Ref="#PWR?"  Part="1" 
+AR Path="/5B6DF34A/5BBD1C09/5C0CAC3B" Ref="#PWR?"  Part="1" 
+AR Path="/5B6DF34A/5BBD1C10/5C0CAC3B" Ref="#PWR?"  Part="1" 
+AR Path="/5BBC7D39/5B71FABA/5C0CAC3B" Ref="#PWR?"  Part="1" 
+AR Path="/5BBC7D39/5B71FABB/5C0CAC3B" Ref="#PWR?"  Part="1" 
+AR Path="/5BBC7D39/5B71FABC/5C0CAC3B" Ref="#PWR?"  Part="1" 
+AR Path="/5B78C04B/5C0CAC3B" Ref="#PWR?"  Part="1" 
+AR Path="/5B78C052/5C0CAC3B" Ref="#PWR?"  Part="1" 
+AR Path="/5B78C059/5C0CAC3B" Ref="#PWR?"  Part="1" 
+AR Path="/5B81ECCF/5C0CAC3B" Ref="#PWR?"  Part="1" 
+AR Path="/5B81ECD6/5C0CAC3B" Ref="#PWR?"  Part="1" 
+AR Path="/5B81ECDD/5C0CAC3B" Ref="#PWR?"  Part="1" 
+AR Path="/5BA83293/5C0CAC3B" Ref="#PWR?"  Part="1" 
+AR Path="/5BA85AFE/5C0CAC3B" Ref="#PWR?"  Part="1" 
+AR Path="/5BA85AC4/5C0CAC3B" Ref="#PWR?"  Part="1" 
+F 0 "#PWR06" H 5400 4500 30  0001 C CNN
+F 1 "GND" H 5400 4430 30  0001 C CNN
+F 2 "" H 5400 4500 50  0001 C CNN
+F 3 "" H 5400 4500 50  0001 C CNN
+	1    5400 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L SparkFun-Resistors:RESISTOR0603 R?
+U 1 1 5C0CAEF2
+P 7100 4000
+AR Path="/5B67288E/5C0CAEF2" Ref="R?"  Part="1" 
+AR Path="/5B676F3C/5C0CAEF2" Ref="R?"  Part="1" 
+AR Path="/5B676F99/5C0CAEF2" Ref="R?"  Part="1" 
+AR Path="/5B729BD5/5C0CAEF2" Ref="R?"  Part="1" 
+AR Path="/5B729BDB/5C0CAEF2" Ref="R?"  Part="1" 
+AR Path="/5B729BE1/5C0CAEF2" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5BBD1C02/5C0CAEF2" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5BBD1C09/5C0CAEF2" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5BBD1C10/5C0CAEF2" Ref="R?"  Part="1" 
+AR Path="/5B6DF34A/5BBD1C02/5C0CAEF2" Ref="R?"  Part="1" 
+AR Path="/5B6DF34A/5BBD1C09/5C0CAEF2" Ref="R?"  Part="1" 
+AR Path="/5B6DF34A/5BBD1C10/5C0CAEF2" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5B71FABA/5C0CAEF2" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5B71FABB/5C0CAEF2" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5B71FABC/5C0CAEF2" Ref="R?"  Part="1" 
+AR Path="/5B78C04B/5C0CAEF2" Ref="R?"  Part="1" 
+AR Path="/5B78C052/5C0CAEF2" Ref="R?"  Part="1" 
+AR Path="/5B78C059/5C0CAEF2" Ref="R?"  Part="1" 
+AR Path="/5B81ECCF/5C0CAEF2" Ref="R?"  Part="1" 
+AR Path="/5B81ECD6/5C0CAEF2" Ref="R?"  Part="1" 
+AR Path="/5B81ECDD/5C0CAEF2" Ref="R?"  Part="1" 
+AR Path="/5BA83293/5C0CAEF2" Ref="R?"  Part="1" 
+AR Path="/5BA85AFE/5C0CAEF2" Ref="R?"  Part="1" 
+AR Path="/5BA85AC4/5C0CAEF2" Ref="R?"  Part="1" 
+AR Path="/5C0CAEF2" Ref="R1"  Part="1" 
+F 0 "R1" V 7005 4068 45  0000 L CNN
+F 1 "24k" V 7089 4068 45  0000 L CNN
+F 2 "0603" H 7100 4150 20  0001 C CNN
+F 3 "" H 7100 4000 60  0001 C CNN
+F 4 " " V 7184 4068 60  0000 L CNN "Field4"
+	1    7100 4000
+	0    1    1    0   
+$EndComp
+$Comp
+L SparkFun-Resistors:RESISTOR0603 R?
+U 1 1 5C0CAEFA
+P 7100 4400
+AR Path="/5B67288E/5C0CAEFA" Ref="R?"  Part="1" 
+AR Path="/5B676F3C/5C0CAEFA" Ref="R?"  Part="1" 
+AR Path="/5B676F99/5C0CAEFA" Ref="R?"  Part="1" 
+AR Path="/5B729BD5/5C0CAEFA" Ref="R?"  Part="1" 
+AR Path="/5B729BDB/5C0CAEFA" Ref="R?"  Part="1" 
+AR Path="/5B729BE1/5C0CAEFA" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5BBD1C02/5C0CAEFA" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5BBD1C09/5C0CAEFA" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5BBD1C10/5C0CAEFA" Ref="R?"  Part="1" 
+AR Path="/5B6DF34A/5BBD1C02/5C0CAEFA" Ref="R?"  Part="1" 
+AR Path="/5B6DF34A/5BBD1C09/5C0CAEFA" Ref="R?"  Part="1" 
+AR Path="/5B6DF34A/5BBD1C10/5C0CAEFA" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5B71FABA/5C0CAEFA" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5B71FABB/5C0CAEFA" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5B71FABC/5C0CAEFA" Ref="R?"  Part="1" 
+AR Path="/5B78C04B/5C0CAEFA" Ref="R?"  Part="1" 
+AR Path="/5B78C052/5C0CAEFA" Ref="R?"  Part="1" 
+AR Path="/5B78C059/5C0CAEFA" Ref="R?"  Part="1" 
+AR Path="/5B81ECCF/5C0CAEFA" Ref="R?"  Part="1" 
+AR Path="/5B81ECD6/5C0CAEFA" Ref="R?"  Part="1" 
+AR Path="/5B81ECDD/5C0CAEFA" Ref="R?"  Part="1" 
+AR Path="/5BA83293/5C0CAEFA" Ref="R?"  Part="1" 
+AR Path="/5BA85AFE/5C0CAEFA" Ref="R?"  Part="1" 
+AR Path="/5BA85AC4/5C0CAEFA" Ref="R?"  Part="1" 
+AR Path="/5C0CAEFA" Ref="R2"  Part="1" 
+F 0 "R2" V 7005 4468 45  0000 L CNN
+F 1 "1k*" V 7089 4468 45  0000 L CNN
+F 2 "0603" H 7100 4550 20  0001 C CNN
+F 3 "" H 7100 4400 60  0001 C CNN
+F 4 " " V 7184 4468 60  0000 L CNN "Field4"
+	1    7100 4400
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR011
+U 1 1 5C0CAF01
+P 7100 4600
+AR Path="/5C0CAF01" Ref="#PWR011"  Part="1" 
+AR Path="/5B65AC1A/5C0CAF01" Ref="#PWR?"  Part="1" 
+AR Path="/5B65AC1A/5B66E121/5C0CAF01" Ref="#PWR?"  Part="1" 
+AR Path="/5B67288E/5C0CAF01" Ref="#PWR?"  Part="1" 
+AR Path="/5B676F3C/5C0CAF01" Ref="#PWR?"  Part="1" 
+AR Path="/5B676F99/5C0CAF01" Ref="#PWR?"  Part="1" 
+AR Path="/5B729BD5/5C0CAF01" Ref="#PWR?"  Part="1" 
+AR Path="/5B729BDB/5C0CAF01" Ref="#PWR?"  Part="1" 
+AR Path="/5B729BE1/5C0CAF01" Ref="#PWR?"  Part="1" 
+AR Path="/5BBC7D39/5BBD1C02/5C0CAF01" Ref="#PWR?"  Part="1" 
+AR Path="/5BBC7D39/5BBD1C09/5C0CAF01" Ref="#PWR?"  Part="1" 
+AR Path="/5BBC7D39/5BBD1C10/5C0CAF01" Ref="#PWR?"  Part="1" 
+AR Path="/5B6DF34A/5BBD1C02/5C0CAF01" Ref="#PWR?"  Part="1" 
+AR Path="/5B6DF34A/5BBD1C09/5C0CAF01" Ref="#PWR?"  Part="1" 
+AR Path="/5B6DF34A/5BBD1C10/5C0CAF01" Ref="#PWR?"  Part="1" 
+AR Path="/5BBC7D39/5B71FABA/5C0CAF01" Ref="#PWR?"  Part="1" 
+AR Path="/5BBC7D39/5B71FABB/5C0CAF01" Ref="#PWR?"  Part="1" 
+AR Path="/5BBC7D39/5B71FABC/5C0CAF01" Ref="#PWR?"  Part="1" 
+AR Path="/5B78C04B/5C0CAF01" Ref="#PWR?"  Part="1" 
+AR Path="/5B78C052/5C0CAF01" Ref="#PWR?"  Part="1" 
+AR Path="/5B78C059/5C0CAF01" Ref="#PWR?"  Part="1" 
+AR Path="/5B81ECCF/5C0CAF01" Ref="#PWR?"  Part="1" 
+AR Path="/5B81ECD6/5C0CAF01" Ref="#PWR?"  Part="1" 
+AR Path="/5B81ECDD/5C0CAF01" Ref="#PWR?"  Part="1" 
+AR Path="/5BA83293/5C0CAF01" Ref="#PWR?"  Part="1" 
+AR Path="/5BA85AFE/5C0CAF01" Ref="#PWR?"  Part="1" 
+AR Path="/5BA85AC4/5C0CAF01" Ref="#PWR?"  Part="1" 
+F 0 "#PWR011" H 7100 4600 30  0001 C CNN
+F 1 "GND" H 7100 4530 30  0001 C CNN
+F 2 "" H 7100 4600 50  0001 C CNN
+F 3 "" H 7100 4600 50  0001 C CNN
+	1    7100 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7100 4200 7250 4200
+Connection ~ 7100 4200
+Text Label 7100 3800 0    50   ~ 0
+PHASE_1
+Text Label 7250 4200 0    50   ~ 0
+PHASE_1_SENSE
+Text Label 5800 3500 0    50   ~ 0
+PHASE_1_SENSE
+Text Label 5800 3600 0    50   ~ 0
+PHASE_2_SENSE
+Text Label 5800 3700 0    50   ~ 0
+PHASE_3_SENSE
+Text Label 5800 3800 0    50   ~ 0
+CURRENT_1
+Text Label 5800 3900 0    50   ~ 0
+CURRENT_2
+Text Label 5800 4000 0    50   ~ 0
+CURRENT_3
+$Comp
+L SparkFun-Resistors:RESISTOR0603 R?
+U 1 1 5C0CF0CC
+P 7100 5100
+AR Path="/5B67288E/5C0CF0CC" Ref="R?"  Part="1" 
+AR Path="/5B676F3C/5C0CF0CC" Ref="R?"  Part="1" 
+AR Path="/5B676F99/5C0CF0CC" Ref="R?"  Part="1" 
+AR Path="/5B729BD5/5C0CF0CC" Ref="R?"  Part="1" 
+AR Path="/5B729BDB/5C0CF0CC" Ref="R?"  Part="1" 
+AR Path="/5B729BE1/5C0CF0CC" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5BBD1C02/5C0CF0CC" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5BBD1C09/5C0CF0CC" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5BBD1C10/5C0CF0CC" Ref="R?"  Part="1" 
+AR Path="/5B6DF34A/5BBD1C02/5C0CF0CC" Ref="R?"  Part="1" 
+AR Path="/5B6DF34A/5BBD1C09/5C0CF0CC" Ref="R?"  Part="1" 
+AR Path="/5B6DF34A/5BBD1C10/5C0CF0CC" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5B71FABA/5C0CF0CC" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5B71FABB/5C0CF0CC" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5B71FABC/5C0CF0CC" Ref="R?"  Part="1" 
+AR Path="/5B78C04B/5C0CF0CC" Ref="R?"  Part="1" 
+AR Path="/5B78C052/5C0CF0CC" Ref="R?"  Part="1" 
+AR Path="/5B78C059/5C0CF0CC" Ref="R?"  Part="1" 
+AR Path="/5B81ECCF/5C0CF0CC" Ref="R?"  Part="1" 
+AR Path="/5B81ECD6/5C0CF0CC" Ref="R?"  Part="1" 
+AR Path="/5B81ECDD/5C0CF0CC" Ref="R?"  Part="1" 
+AR Path="/5BA83293/5C0CF0CC" Ref="R?"  Part="1" 
+AR Path="/5BA85AFE/5C0CF0CC" Ref="R?"  Part="1" 
+AR Path="/5BA85AC4/5C0CF0CC" Ref="R?"  Part="1" 
+AR Path="/5C0CF0CC" Ref="R22"  Part="1" 
+F 0 "R22" V 7005 5168 45  0000 L CNN
+F 1 "24k" V 7089 5168 45  0000 L CNN
+F 2 "0603" H 7100 5250 20  0001 C CNN
+F 3 "" H 7100 5100 60  0001 C CNN
+F 4 " " V 7184 5168 60  0000 L CNN "Field4"
+	1    7100 5100
+	0    1    1    0   
+$EndComp
+$Comp
+L SparkFun-Resistors:RESISTOR0603 R?
+U 1 1 5C0CF0D4
+P 7100 5500
+AR Path="/5B67288E/5C0CF0D4" Ref="R?"  Part="1" 
+AR Path="/5B676F3C/5C0CF0D4" Ref="R?"  Part="1" 
+AR Path="/5B676F99/5C0CF0D4" Ref="R?"  Part="1" 
+AR Path="/5B729BD5/5C0CF0D4" Ref="R?"  Part="1" 
+AR Path="/5B729BDB/5C0CF0D4" Ref="R?"  Part="1" 
+AR Path="/5B729BE1/5C0CF0D4" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5BBD1C02/5C0CF0D4" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5BBD1C09/5C0CF0D4" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5BBD1C10/5C0CF0D4" Ref="R?"  Part="1" 
+AR Path="/5B6DF34A/5BBD1C02/5C0CF0D4" Ref="R?"  Part="1" 
+AR Path="/5B6DF34A/5BBD1C09/5C0CF0D4" Ref="R?"  Part="1" 
+AR Path="/5B6DF34A/5BBD1C10/5C0CF0D4" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5B71FABA/5C0CF0D4" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5B71FABB/5C0CF0D4" Ref="R?"  Part="1" 
+AR Path="/5BBC7D39/5B71FABC/5C0CF0D4" Ref="R?"  Part="1" 
+AR Path="/5B78C04B/5C0CF0D4" Ref="R?"  Part="1" 
+AR Path="/5B78C052/5C0CF0D4" Ref="R?"  Part="1" 
+AR Path="/5B78C059/5C0CF0D4" Ref="R?"  Part="1" 
+AR Path="/5B81ECCF/5C0CF0D4" Ref="R?"  Part="1" 
+AR Path="/5B81ECD6/5C0CF0D4" Ref="R?"  Part="1" 
+AR Path="/5B81ECDD/5C0CF0D4" Ref="R?"  Part="1" 
+AR Path="/5BA83293/5C0CF0D4" Ref="R?"  Part="1" 
+AR Path="/5BA85AFE/5C0CF0D4" Ref="R?"  Part="1" 
+AR Path="/5BA85AC4/5C0CF0D4" Ref="R?"  Part="1" 
+AR Path="/5C0CF0D4" Ref="R23"  Part="1" 
+F 0 "R23" V 7005 5568 45  0000 L CNN
+F 1 "1k*" V 7089 5568 45  0000 L CNN
+F 2 "0603" H 7100 5650 20  0001 C CNN
+F 3 "" H 7100 5500 60  0001 C CNN
+F 4 " " V 7184 5568 60  0000 L CNN "Field4"
+	1    7100 5500
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0101
+U 1 1 5C0CF0DB
+P 7100 5700
+AR Path="/5C0CF0DB" Ref="#PWR0101"  Part="1" 
+AR Path="/5B65AC1A/5C0CF0DB" Ref="#PWR?"  Part="1" 
+AR Path="/5B65AC1A/5B66E121/5C0CF0DB" Ref="#PWR?"  Part="1" 
+AR Path="/5B67288E/5C0CF0DB" Ref="#PWR?"  Part="1" 
+AR Path="/5B676F3C/5C0CF0DB" Ref="#PWR?"  Part="1" 
+AR Path="/5B676F99/5C0CF0DB" Ref="#PWR?"  Part="1" 
+AR Path="/5B729BD5/5C0CF0DB" Ref="#PWR?"  Part="1" 
+AR Path="/5B729BDB/5C0CF0DB" Ref="#PWR?"  Part="1" 
+AR Path="/5B729BE1/5C0CF0DB" Ref="#PWR?"  Part="1" 
+AR Path="/5BBC7D39/5BBD1C02/5C0CF0DB" Ref="#PWR?"  Part="1" 
+AR Path="/5BBC7D39/5BBD1C09/5C0CF0DB" Ref="#PWR?"  Part="1" 
+AR Path="/5BBC7D39/5BBD1C10/5C0CF0DB" Ref="#PWR?"  Part="1" 
+AR Path="/5B6DF34A/5BBD1C02/5C0CF0DB" Ref="#PWR?"  Part="1" 
+AR Path="/5B6DF34A/5BBD1C09/5C0CF0DB" Ref="#PWR?"  Part="1" 
+AR Path="/5B6DF34A/5BBD1C10/5C0CF0DB" Ref="#PWR?"  Part="1" 
+AR Path="/5BBC7D39/5B71FABA/5C0CF0DB" Ref="#PWR?"  Part="1" 
+AR Path="/5BBC7D39/5B71FABB/5C0CF0DB" Ref="#PWR?"  Part="1" 
+AR Path="/5BBC7D39/5B71FABC/5C0CF0DB" Ref="#PWR?"  Part="1" 
+AR Path="/5B78C04B/5C0CF0DB" Ref="#PWR?"  Part="1" 
+AR Path="/5B78C052/5C0CF0DB" Ref="#PWR?"  Part="1" 
+AR Path="/5B78C059/5C0CF0DB" Ref="#PWR?"  Part="1" 
+AR Path="/5B81ECCF/5C0CF0DB" Ref="#PWR?"  Part="1" 
+AR Path="/5B81ECD6/5C0CF0DB" Ref="#PWR?"  Part="1" 
+AR Path="/5B81ECDD/5C0CF0DB" Ref="#PWR?"  Part="1" 
+AR Path="/5BA83293/5C0CF0DB" Ref="#PWR?"  Part="1" 
+AR Path="/5BA85AFE/5C0CF0DB" Ref="#PWR?"  Part="1" 
+AR Path="/5BA85AC4/5C0CF0DB" Ref="#PWR?"  Part="1" 
+F 0 "#PWR0101" H 7100 5700 30  0001 C CNN
+F 1 "GND" H 7100 5630 30  0001 C CNN
+F 2 "" H 7100 5700 50  0001 C CNN
+F 3 "" H 7100 5700 50  0001 C CNN
+	1    7100 5700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7100 5300 7250 5300
+Connection ~ 7100 5300
+Text Label 7250 5300 0    50   ~ 0
+48V_SENSE
+$Comp
+L power2:+48V #PWR0102
+U 1 1 5C0CF36D
+P 7100 4900
+F 0 "#PWR0102" H 7100 4750 50  0001 C CNN
+F 1 "+48V" V 7115 5028 50  0000 L CNN
+F 2 "" H 7100 4900 50  0001 C CNN
+F 3 "" H 7100 4900 50  0001 C CNN
+	1    7100 4900
+	0    1    1    0   
+$EndComp
+Text Label 5800 4100 0    50   ~ 0
+48V_SENSE
+$Comp
+L SparkFun-Connectors:CONN_03-SCREW-5MM J?
+U 1 1 5C0D03A0
+P 3700 1500
+F 0 "J?" H 3656 1904 45  0000 C CNN
+F 1 "CONN_03-SCREW-5MM" H 3656 1820 45  0000 C CNN
+F 2 "SCREWTERMINAL-5MM-3" H 3700 1900 20  0001 C CNN
+F 3 "" H 3700 1500 50  0001 C CNN
+F 4 "" H 3656 1831 60  0000 C CNN "Field4"
+	1    3700 1500
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
