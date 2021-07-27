@@ -8,7 +8,7 @@ This is a small, simple half-bridge circuit that commutates 54 volts into 3-phas
 > Not that I'm a paragon of best practice in any case, but this seriously isn't an acceptable level of quality - this is
 specifically quite horrendous. In particular, it was designed to be etched at home, as my normal board house was closed for the holidays.
 
-There are several other open-source turbomolecular pump controller projects online that are better developed and that you might want to look into building. In addition, the pumps use a kind of synchronous or induction motor, not a "brushless"-like, so no sensing is needed, only a constant 850 Hz, which is basically just a 3-phase VFD or motor controller. Unfortunately, I wasn't able to find any off-the-shelf system with the required parameters.
+There are several other open-source turbomolecular pump controller projects online that are better developed and that might be preferable. In addition, the pumps use a kind of synchronous or induction motor, not a "brushless"-like, so no sensing is needed, only a constant 850 Hz, which is basically just a 3-phase VFD or motor controller. Unfortunately, I wasn't able to find any off-the-shelf system with the required parameters.
 
 The circuit is simple enough to easily be built on perfboard. Schematic and bill of materials are [here](files/controller/assembly).
 
