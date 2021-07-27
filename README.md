@@ -14,7 +14,7 @@ The circuit is simple enough to easily be built on perfboard. Schematic and bill
 
 The input power was supplied by a MeanWell SE-1000-48 with the voltage trimpot adjusted to ~56V, through a DROK Model 200310 10-75V to 0-60V switching buck converter (Amazon), current limit set to about 8A. 
 
-If you don't use such a regulator, you need to put a fuse inline on the power supply, because the power supply is extremely powerful - it's practically an arc flash hazard and will easily start a fire.
+I highly recommend using such a constant-current regulator, because the power supply is extremely powerful - it's practically an arc flash hazard and will easily start a fire.
 
 I've had a few instances where shoot-through blew up one of the MOSFETs. I don't know what would happen if this occurs while the pump is at maximum speed. Adding fuses between the legs of the balf-bridge would probably be a good idea to prevent catastrophic braking.
 
