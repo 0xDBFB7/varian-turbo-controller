@@ -9,7 +9,7 @@ This is a small, simple half-bridge circuit that commutates 54 volts into 3-phas
 
 There are several other open-source turbomolecular pump controller projects online that are better developed and that might be preferable. In addition, the pumps use a kind of synchronous or induction motor, not a "brushless"-like, so no sensing is needed, only a constant 850 Hz, which is basically just a 3-phase VFD or motor controller. Unfortunately, I wasn't able to find any off-the-shelf system with the required parameters.
 
-The circuit is simple enough to easily be built on perfboard. Schematic and bill of materials are [here](files/controller/assembly).
+The circuit is simple enough to easily be built on perfboard. Schematic and bill of materials are [here](files/controller/assembly). The power MOSFETs are BUK9620, with MIC4604YM-TR half-bridge charge-pump drivers.
 
 The input power was supplied by a MeanWell SE-1000-48 with the voltage trimpot adjusted to ~56V, through a DROK Model 200310 10-75V to 0-60V switching buck converter (Amazon), current limit set to about 8A. 
 
