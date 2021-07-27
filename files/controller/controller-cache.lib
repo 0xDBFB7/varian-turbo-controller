@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# 0xDBFB7:MIC4604
+# 0xDBFB7_MIC4604
 #
-DEF 0xDBFB7:MIC4604 U 0 40 Y Y 1 F N
+DEF 0xDBFB7_MIC4604 U 0 40 Y Y 1 F N
 F0 "U" 100 450 50 H V C CNN
-F1 "0xDBFB7:MIC4604" 200 -150 50 H V C CNN
+F1 "0xDBFB7_MIC4604" 200 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -21,11 +21,11 @@ X LO 8 800 300 100 L 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
-# Device:CP
+# Device_CP
 #
-DEF Device:CP C 0 10 N Y 1 F N
+DEF Device_CP C 0 10 N Y 1 F N
 F0 "C" 25 100 50 H V L CNN
-F1 "Device:CP" 25 -100 50 H V L CNN
+F1 "Device_CP" 25 -100 50 H V L CNN
 F2 "" 38 -150 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -44,11 +44,11 @@ X ~ 2 0 -150 110 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# MCU_Module:Arduino_Nano_v3.x
+# MCU_Module_Arduino_Nano_v3.x
 #
-DEF MCU_Module:Arduino_Nano_v3.x A 0 40 Y Y 1 F N
+DEF MCU_Module_Arduino_Nano_v3.x A 0 40 Y Y 1 F N
 F0 "A" -200 1025 50 H V R CNN
-F1 "MCU_Module:Arduino_Nano_v3.x" -200 950 50 H V R CNN
+F1 "MCU_Module_Arduino_Nano_v3.x" -200 950 50 H V R CNN
 F2 "Module:Arduino_Nano" 150 -950 50 H I L CNN
 F3 "" 0 -1000 50 H I C CNN
 ALIAS Arduino_Nano_v2.x
@@ -90,11 +90,11 @@ X D6 9 -500 0 100 R 50 50 1 1 B
 ENDDRAW
 ENDDEF
 #
-# SparkFun-Capacitors:0.1UF-0603-100V-10%
+# SparkFun-Capacitors_0.1UF-0603-100V-10%
 #
-DEF SparkFun-Capacitors:0.1UF-0603-100V-10% C 0 40 N N 1 L N
+DEF SparkFun-Capacitors_0.1UF-0603-100V-10% C 0 40 N N 1 L N
 F0 "C" 60 115 45 H V L BNN
-F1 "SparkFun-Capacitors:0.1UF-0603-100V-10%" 60 -85 45 H V L BNN
+F1 "SparkFun-Capacitors_0.1UF-0603-100V-10%" 60 -85 45 H V L BNN
 F2 "0603" 0 250 20 H I C CNN
 F3 "" 0 0 50 H I C CNN
 F4 "CAP-08390" 0 300 60 H V C CNN
@@ -111,11 +111,11 @@ X 2 2 0 -100 100 U 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #
-# SparkFun-Capacitors:10UF-1210-50V-20%
+# SparkFun-Capacitors_10UF-1210-50V-20%
 #
-DEF SparkFun-Capacitors:10UF-1210-50V-20% C 0 40 N N 1 L N
+DEF SparkFun-Capacitors_10UF-1210-50V-20% C 0 40 N N 1 L N
 F0 "C" 60 115 45 H V L BNN
-F1 "SparkFun-Capacitors:10UF-1210-50V-20%" 60 -85 45 H V L BNN
+F1 "SparkFun-Capacitors_10UF-1210-50V-20%" 60 -85 45 H V L BNN
 F2 "1210" 0 250 20 H I C CNN
 F3 "" 0 0 50 H I C CNN
 F4 "CAP-09824" 0 300 60 H V C CNN
@@ -132,11 +132,11 @@ X 2 2 0 -100 100 U 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #
-# SparkFun-Connectors:CONN_025MM
+# SparkFun-Connectors_CONN_025MM
 #
-DEF SparkFun-Connectors:CONN_025MM J 0 40 N Y 1 L N
+DEF SparkFun-Connectors_CONN_025MM J 0 40 N Y 1 L N
 F0 "J" -200 200 45 H V L BNN
-F1 "SparkFun-Connectors:CONN_025MM" -200 -150 45 H V L BNN
+F1 "SparkFun-Connectors_CONN_025MM" -200 -150 45 H V L BNN
 F2 "SCREWTERMINAL-5MM-2" 0 300 20 H I C CNN
 F3 "" 0 0 50 H I C CNN
 F4 "CONN-10480" 0 350 60 H V C CNN
@@ -150,11 +150,11 @@ X 2 2 100 100 100 L 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #
-# SparkFun-Connectors:CONN_03-SCREW-5MM
+# SparkFun-Connectors_CONN_03-SCREW-5MM
 #
-DEF SparkFun-Connectors:CONN_03-SCREW-5MM J 0 40 N Y 1 L N
+DEF SparkFun-Connectors_CONN_03-SCREW-5MM J 0 40 N Y 1 L N
 F0 "J" -200 300 45 H V L BNN
-F1 "SparkFun-Connectors:CONN_03-SCREW-5MM" -200 -150 45 H V L BNN
+F1 "SparkFun-Connectors_CONN_03-SCREW-5MM" -200 -150 45 H V L BNN
 F2 "SCREWTERMINAL-5MM-3" 0 400 20 H I C CNN
 F3 "" 0 0 50 H I C CNN
 F4 "CONN-10134" 0 450 60 H V C CNN
@@ -169,11 +169,11 @@ X 3 3 100 200 100 L 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #
-# SparkFun-DiscreteSemi:MOSFET-NCH-PSMN7R0
+# SparkFun-DiscreteSemi_MOSFET-NCH-PSMN7R0
 #
-DEF SparkFun-DiscreteSemi:MOSFET-NCH-PSMN7R0 Q 0 40 N N 1 L N
+DEF SparkFun-DiscreteSemi_MOSFET-NCH-PSMN7R0 Q 0 40 N N 1 L N
 F0 "Q" 150 150 45 H V L BNN
-F1 "SparkFun-DiscreteSemi:MOSFET-NCH-PSMN7R0" 150 -200 45 H V L BNN
+F1 "SparkFun-DiscreteSemi_MOSFET-NCH-PSMN7R0" 150 -200 45 H V L BNN
 F2 "TO-263_D2PAK" 0 250 20 H I C CNN
 F3 "" 0 0 50 H I C CNN
 F4 "TRANS-12437" 0 300 60 H V C CNN
@@ -208,11 +208,11 @@ X S 3 100 -200 100 U 40 40 1 1 B
 ENDDRAW
 ENDDEF
 #
-# SparkFun-Resistors:10OHM-1206-1_4W-1%
+# SparkFun-Resistors_10OHM-1206-1_4W-1%
 #
-DEF SparkFun-Resistors:10OHM-1206-1_4W-1% R 0 40 N N 1 L N
+DEF SparkFun-Resistors_10OHM-1206-1_4W-1% R 0 40 N N 1 L N
 F0 "R" -200 50 45 H V L BNN
-F1 "SparkFun-Resistors:10OHM-1206-1_4W-1%" -200 -150 45 H V L BNN
+F1 "SparkFun-Resistors_10OHM-1206-1_4W-1%" -200 -150 45 H V L BNN
 F2 "1206" 0 150 20 H I C CNN
 F3 "" 0 0 60 H I C CNN
 F4 "RES-08705" 0 200 60 H V C CNN
@@ -234,11 +234,11 @@ X 2 2 200 0 100 L 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #
-# SparkFun-Resistors:RESISTOR0603
+# SparkFun-Resistors_RESISTOR0603
 #
-DEF SparkFun-Resistors:RESISTOR0603 R 0 40 N N 1 L N
+DEF SparkFun-Resistors_RESISTOR0603 R 0 40 N N 1 L N
 F0 "R" -200 50 45 H V L BNN
-F1 "SparkFun-Resistors:RESISTOR0603" -200 -150 45 H V L BNN
+F1 "SparkFun-Resistors_RESISTOR0603" -200 -150 45 H V L BNN
 F2 "0603" 0 150 20 H I C CNN
 F3 "" 0 0 60 H I C CNN
 F4 " " 0 200 60 H V C CNN
@@ -262,11 +262,11 @@ X 2 2 200 0 100 L 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #
-# SparkFun-Resistors:RESISTOR0805
+# SparkFun-Resistors_RESISTOR0805
 #
-DEF SparkFun-Resistors:RESISTOR0805 R 0 40 N N 1 L N
+DEF SparkFun-Resistors_RESISTOR0805 R 0 40 N N 1 L N
 F0 "R" -200 50 45 H V L BNN
-F1 "SparkFun-Resistors:RESISTOR0805" -200 -150 45 H V L BNN
+F1 "SparkFun-Resistors_RESISTOR0805" -200 -150 45 H V L BNN
 F2 "0805" 0 150 20 H I C CNN
 F3 "" 0 0 60 H I C CNN
 F4 " " 0 200 60 H V C CNN
@@ -288,11 +288,11 @@ X 2 2 200 0 100 L 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #
-# power2:+48V
+# power2_+48V
 #
-DEF power2:+48V #PWR 0 0 Y Y 1 F P
+DEF power2_+48V #PWR 0 0 Y Y 1 F P
 F0 "#PWR" 0 -150 50 H I C CNN
-F1 "power2:+48V" 0 140 50 H V C CNN
+F1 "power2_+48V" 0 140 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -303,11 +303,11 @@ X +48V 1 0 0 0 U 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
-# power:+12V
+# power_+12V
 #
-DEF power:+12V #PWR 0 0 N Y 1 F P
+DEF power_+12V #PWR 0 0 N Y 1 F P
 F0 "#PWR" 0 -50 20 H I C CNN
-F1 "power:+12V" 0 100 30 H V C CNN
+F1 "power_+12V" 0 100 30 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -317,11 +317,11 @@ X +12V 1 0 0 0 U 20 30 0 0 W N
 ENDDRAW
 ENDDEF
 #
-# power:GND
+# power_GND
 #
-DEF ~power:GND #PWR 0 0 Y Y 1 F P
+DEF power_GND #PWR 0 0 Y Y 1 F P
 F0 "#PWR" 0 0 30 H I C CNN
-F1 "power:GND" 0 -70 30 H I C CNN
+F1 "power_GND" 0 -70 30 H I C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
