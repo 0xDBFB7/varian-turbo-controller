@@ -5,8 +5,7 @@ This is a small, simple half-bridge circuit that commutates 54 volts into 3-phas
 
 > WARNING: This board has only been tested briefly. The software does not provide any of the sensing or safety features present in the stock controller. It might blow up your pump, kill your cat, spin the earth around your impeller, etc.
 >
-> Not that I'm a paragon of best practice in any case, but this seriously isn't an acceptable level of quality - this is
-specifically quite horrendous. In particular, it was designed to be etched at home, as my normal board house was closed for the holidays.
+> Not that I'm a paragon of best practice in any case, but this seriously isn't an acceptable level of quality. In particular, it was designed to be etched at home, as my normal board house was closed for the holidays.
 
 There are several other open-source turbomolecular pump controller projects online that are better developed and that might be preferable. In addition, the pumps use a kind of synchronous or induction motor, not a "brushless"-like, so no sensing is needed, only a constant 850 Hz, which is basically just a 3-phase VFD or motor controller. Unfortunately, I wasn't able to find any off-the-shelf system with the required parameters.
 
@@ -20,11 +19,11 @@ I've had a few instances where shoot-through blew up one of the MOSFETs. I don't
 
 The MeanWell supply is probably overkill (very expensive), but a cheaper Amazon 48V supply exploded and I didn't want to tempt fate.
 
-I don't know what terminations the turbopump connector uses; 
+I don't know what terminations the turbopump connector uses; crimp butt connectors worked brilliantly.
 
-[Original Varian controller manual](references/Varian_V200_controller.pdf)
+## [Original Varian controller manual](references/Varian_V200_controller.pdf)
 
-[Pump manual](references/Varian_V200_turbo_pump.pdf)
+## [Pump manual](references/Varian_V200_turbo_pump.pdf)
 
 
 
